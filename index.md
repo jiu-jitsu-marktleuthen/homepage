@@ -83,7 +83,7 @@ Als lizenzierte Prüfer im IFAK haben wir die Möglichkeit, bis zum 1.Kyu direkt
 • Rot (9. & 10.Dan)  
 
 *Prüfungsprogramm für Kyu-Graduierungen:*
-[PrüfungsordnungHRJJ(kyu).pdf]({% link homepage/downloads/PrüfungsordnungHRJJ(kyu).pdf %})
+[PrüfungsordnungHRJJ(kyu).pdf](https://github.com/user-attachments/files/18461588/PrufungsordnungHRJJ.kyu.pdf)
 
 ---
 
@@ -100,17 +100,45 @@ Einfach vorbeikommen ist ebenfalls möglich!
 
 ---
 
-## Impressum & Haftungsausschluss
+## Impressum
 **Angaben gemäß § 5 TMG / § 55 RStV**  
 Heiwa-Ryu-Jiu-Jitsu Dojo im Turnerbund Marktleuthen 1863 e.V.  
-Adresse, Ansprechpartner, etc. (bitte ausfüllen)  
+Schützenstraße 10  
+95168 Marktleuthen  
 
-### Haftungsausschluss
-• Inhalt des Onlineangebotes: Der Autor übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen.  
-• Verweise und Links: Bei direkten oder indirekten Verweisen auf fremde Webseiten ("Hyperlinks"), die außerhalb unseres Verantwortungsbereiches liegen, übernehmen wir keine Haftung für deren Inhalte.  
-• Datenschutz: Persönliche Daten (E-Mail, Name etc.) werden ohne Zustimmung nicht an Dritte weitergegeben.  
+**Vertreten durch:**  
+Bianca Reinel  
+Waldsteinweg 10  
+95168 Marktleuthen  
 
-*(Ausführlichen Text ggf. ergänzen.)*
+**Kontakt:**  
+Telefon: +49 (0) 9285 96 88 782  
+E-Mail: [info@tb-marktleuthen.de](mailto:info@tb-marktleuthen.de)  
+
+**Registergericht:** Amtsgericht Wunsiedel  
+**Registernummer:** 40498  
+
+**Zusätzliche Informationen:** Diese Webseite wurde erstellt auf Basis des e-Recht24 Impressum-Generators.  
+
+---
+
+## Haftungsausschluss
+### Haftung für Inhalte
+Die Inhalte dieser Seite wurden mit größter Sorgfalt erstellt. Wir übernehmen jedoch keine Gewähr für die Korrektheit, Vollständigkeit und Aktualität der Inhalte. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte nach den allgemeinen Gesetzen verantwortlich. Gemäß §§ 8 bis 10 TMG sind wir jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Hinweisen auf rechtswidrige Tätigkeiten zu suchen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntniserlangung einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
+
+### Haftung für Links
+Unsere Webseite enthält Links zu externen Webseiten, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft, rechtswidrige Inhalte waren zu diesem Zeitpunkt nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Wenn uns Rechtsverletzungen bekannt werden, entfernen wir solche Links umgehend.
+
+### Urheberrecht
+Alle durch die Betreiber dieser Webseite erstellten Inhalte und Werke unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung oder jegliche Art der Verwertung außerhalb der Grenzen des Urheberrechts bedürfen der schriftlichen Zustimmung des jeweiligen Autors. Downloads oder Kopien dieser Seite sind lediglich für den privaten, nicht kommerziellen Gebrauch gestattet. Sollten Inhalte auf dieser Webseite nicht vom Betreiber erstellt worden sein, werden die Urheberrechte Dritter beachtet und als solche gekennzeichnet. Sollte dennoch eine Urheberrechtsverletzung bekannt werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen entfernen wir derartige Inhalte umgehend.
+
+---
+
+## Datenschutz
+Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit personenbezogene Daten (z.B. Name, Anschrift oder E-Mail-Adresse) erhoben werden, erfolgt dies, soweit möglich, auf freiwilliger Basis. Wir geben diese Daten ohne Ihre ausdrückliche Zustimmung nicht an Dritte weiter. Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz vor dem Zugriff Dritter ist nicht möglich.
+
+**Werbeverbot:**  
+Die Nutzung von im Impressum veröffentlichten Kontaktdaten durch Dritte zur Übersendung nicht ausdrücklich angeforderter Werbung wird ausdrücklich widersprochen. Die Betreiber behalten sich rechtliche Schritte im Falle unverlangter Zusendung von Werbematerialien, wie Spam-E-Mails, vor.
 
 ---
 
