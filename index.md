@@ -13,12 +13,13 @@ Wir sind das Heiwa-Ryu-Jiu-Jitsu Dojo – ein Ort, an dem traditionelle Kampfkun
 
 ## Über Uns
 Heiwa-Ryu-Jiu-Jitsu bedeutet:
+
 • Heiwa: Frieden  
 • Ryu: Schule/Stil  
 • Jiu/Ju: Sanft  
 • Jitsu/Jutsu: Kunst
 
-Diese “friedliche Schule des sanften Kunstgriffs” hat ihre Wurzeln im traditionellen Jiu-Jitsu, verknüpft mit Elementen des Shotokan-Karate (Heian-Katas) sowie Techniken aus Hanbo (Kurzstock) und Bokken (Holzschwert). Wir möchten Katas und deren Bunkai an die Prinzipien des Jiu-Jitsu anpassen – für eine vielseitige und ganzheitliche Kampfkunst.
+Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditionellen Jiu-Jitsu, verknüpft mit Elementen des Shotokan-Karate (Heian-Katas) sowie Techniken aus Hanbo (Kurzstock) und Bokken (Holzschwert). Wir möchten Katas und deren Bunkai an die Prinzipien des Jiu-Jitsu anpassen – für eine vielseitige und ganzheitliche Kampfkunst.
 
 ---
 
@@ -51,6 +52,7 @@ Diese “friedliche Schule des sanften Kunstgriffs” hat ihre Wurzeln im tradit
 
 ### Trainingsort
 Wir trainieren in der Halle des  
+
 Turnerbund Marktleuthen 1863 e.V. (TBM)  
 Schützenstraße 12a, 95168 Marktleuthen  
 
@@ -58,7 +60,7 @@ Schützenstraße 12a, 95168 Marktleuthen
 
 ## Verband
 ### BFAK → IFAK  
-Ursprünglich war unser Dojo im “Bayrischen Fachverband für asiatische Kampfsportarten” (BFAK) organisiert. Später wurde daraus der “Bundesfachverband für asiatische Kampfsportarten” und heute sind wir im “Internationalen Fachverband für asiatische Kampfsportarten” (IFAK) unter der Leitung von Hanshi Siegfried Lory (10.Dan).  
+Ursprünglich war unser Dojo im "Bayrischen Fachverband für asiatische Kampfsportarten" (BFAK) organisiert. Später wurde daraus der "Bundesfachverband für asiatische Kampfsportarten" und heute sind wir im Internationalen Fachverband für asiatische Kampfsportarten" (IFAK) unter der Leitung von Hanshi Siegfried Lory (10.Dan).  
 Wir gelten dort als eingetragene Schule Nr. 124.
 
 ---
@@ -76,28 +78,27 @@ Als lizenzierte Prüfer im IFAK haben wir die Möglichkeit, bis zum 1.Kyu direkt
 
 **Meister-Grade**  
 • Schwarz (1. – 5.Dan)  
-• Rot-Schwarz-Rot (z.B. 4./5.Dan & “Renshi”)  
+• Rot-Schwarz-Rot (z.B. 4./5.Dan & "Renshi")  
 • Rot-Weiß-Rot (6. – 8.Dan)  
 • Rot (9. & 10.Dan)  
 
-*(Prüfungsprogramm für Kyu-Graduierungen: PDF-Download s. unten)*
+*Prüfungsprogramm für Kyu-Graduierungen:*
+[PrüfungsordnungHRJJ(kyu).pdf](/downloads/PrüfungsordnungHRJJ_kyu.pdf)  
 
 ---
 
 ## Bilder & Videos
-• Viele unserer Eindrücke findest du im Fotoarchiv oder in unseren Videos.  
-• Aktuelle Clips siehst du auf unserem YouTube-Kanal:  
+• Viele unserer Eindrücke findest bei uns auf Instagram:
+  [Heiwa-Ryu-Jiu-Jitsu auf Instagram](https://www.instagram.com/jiu_jitsu_tbm)
+• Aktuelle Clips siehst du auch auf unserem YouTube-Kanal:  
   [Heiwa-Ryu-Jiu-Jitsu auf YouTube](https://www.youtube.com/channel/UCy34rgHg0uicoFaSJ9eJQLw)
 
 ---
 
 ## Kontakt
 Bei Fragen oder Interesse am Probetraining:
-
-• E-Mail: [info@heiwa-ryu-dojo.de](mailto:info@heiwa-ryu-dojo.de)  
-• Telefon: 09285 / 6591 (ab 17.00 Uhr, z.B. “Johannes Feiler”)  
-
-*(Kontaktdaten ggf. anpassen.)*
+• Telefon: 0170 / 9007027 (ab 17.00 Uhr, z.B. "Johannes Feiler")  
+Einfach vorbeikommen ist ebenfalls möglich!
 
 ---
 
@@ -108,17 +109,11 @@ Adresse, Ansprechpartner, etc. (bitte ausfüllen)
 
 ### Haftungsausschluss
 • Inhalt des Onlineangebotes: Der Autor übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen.  
-• Verweise und Links: Bei direkten oder indirekten Verweisen auf fremde Webseiten (“Hyperlinks”), die außerhalb unseres Verantwortungsbereiches liegen, übernehmen wir keine Haftung für deren Inhalte.  
+• Verweise und Links: Bei direkten oder indirekten Verweisen auf fremde Webseiten ("Hyperlinks"), die außerhalb unseres Verantwortungsbereiches liegen, übernehmen wir keine Haftung für deren Inhalte.  
 • Datenschutz: Persönliche Daten (E-Mail, Name etc.) werden ohne Zustimmung nicht an Dritte weitergegeben.  
 
 *(Ausführlichen Text ggf. ergänzen.)*
 
 ---
 
-## Downloads
-• [PrüfungsordnungHRJJ(kyu).pdf](/path/to/PrüfungsordnungHRJJ_kyu.pdf)  
-
----
-
 *© {{ site.time | date: "%Y" }} Heiwa-Ryu-Jiu-Jitsu Dojo – Turnerbund Marktleuthen 1863 e.V.*  
-*(Ergänze hier das aktuelle Jahr oder nutze die GitHub/Jekyll-Variablen.)*
