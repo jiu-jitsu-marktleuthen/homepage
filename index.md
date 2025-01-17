@@ -94,7 +94,7 @@ Als lizenzierte Prüfer im IFAK haben wir die Möglichkeit, bis zum 1.Kyu direkt
 ---
 
 ## Kontakt
-Bei Fragen oder Interesse am Probetraining:
+Bei Fragen oder Interesse am Probetraining:  
 • Telefon: 0170 / 9007027 (ab 17.00 Uhr, z.B. "Johannes Feiler")  
 Einfach vorbeikommen ist ebenfalls möglich!
 
