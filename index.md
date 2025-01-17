@@ -1,5 +1,5 @@
 ---
-title: "Heiwa - Ryu - Jiu - Jitsu Dojo"
+title: "Heiwa - Ryu - Jiu - Jitsu Dojo ![TBM](https://github.com/user-attachments/assets/fbe71404-31cf-4638-86e0-9a5f131f0917)"
 description: "Turnerbund Marktleuthen 1863 e.V."
 permalink: /
 layout: default
