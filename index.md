@@ -4,7 +4,9 @@ description: "Turnerbund Marktleuthen 1863 e.V."
 permalink: /
 layout: default
 ---
-![TBM](https://github.com/user-attachments/assets/fbe71404-31cf-4638-86e0-9a5f131f0917)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fbe71404-31cf-4638-86e0-9a5f131f0917" alt="TBM Logo" width="200" />
+</p>
 
 ## Willkommen beim Turnerbund Marktleuthen 1863 e.V. 
 Wir sind das Heiwa-Ryu-Jiu-Jitsu Dojo – ein Ort, an dem traditionelle Kampfkunst und moderne Trainingsmethoden aufeinandertreffen. 
