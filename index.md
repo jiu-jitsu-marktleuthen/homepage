@@ -5,9 +5,9 @@ permalink: /
 layout: default
 ---
 
-# Heiwa - Ryu - Jiu - Jitsu  
-Willkommen beim Turnerbund Marktleuthen 1863 e.V.  
-Wir sind das Heiwa-Ryu-Jiu-Jitsu Dojo – ein Ort, an dem traditionelle Kampfkunst und moderne Trainingsmethoden aufeinandertreffen. Mit viel Begeisterung und intensiver Praxis vermitteln wir die Prinzipien des friedlichen, aber effektiven Jiu-Jitsu.
+# Willkommen beim Turnerbund Marktleuthen 1863 e.V. 
+Wir sind das Heiwa-Ryu-Jiu-Jitsu Dojo – ein Ort, an dem traditionelle Kampfkunst und moderne Trainingsmethoden aufeinandertreffen. 
+Mit viel Begeisterung und intensiver Praxis vermitteln wir die Prinzipien des friedlichen, aber effektiven Jiu-Jitsu.
 
 ---
 
