@@ -3,6 +3,7 @@ title: "Heiwa - Ryu - Jiu - Jitsu Dojo"
 description: "Turnerbund Marktleuthen 1863 e.V."
 permalink: /
 layout: default
+theme: jekyll-theme-cayman
 ---
 
 # Heiwa - Ryu - Jiu - Jitsu  
