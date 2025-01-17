@@ -88,10 +88,8 @@ Als lizenzierte Prüfer im IFAK haben wir die Möglichkeit, bis zum 1.Kyu direkt
 ---
 
 ## Bilder & Videos
-• Viele unserer Eindrücke findest bei uns auf Instagram:
-  [Heiwa-Ryu-Jiu-Jitsu auf Instagram](https://www.instagram.com/jiu_jitsu_tbm)
-• Aktuelle Clips siehst du auch auf unserem YouTube-Kanal:  
-  [Heiwa-Ryu-Jiu-Jitsu auf YouTube](https://www.youtube.com/channel/UCy34rgHg0uicoFaSJ9eJQLw)
+• Viele unserer Eindrücke findest bei uns auf Instagram: [Heiwa-Ryu-Jiu-Jitsu auf Instagram](https://www.instagram.com/jiu_jitsu_tbm)  
+• Aktuelle Clips siehst du auch auf unserem YouTube-Kanal:  [Heiwa-Ryu-Jiu-Jitsu auf YouTube](https://www.youtube.com/channel/UCy34rgHg0uicoFaSJ9eJQLw)   
 
 ---
 
