@@ -27,7 +27,7 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
 ## Trainer
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-   <img src="https://github.com/user-attachments/assets/d2e901b1-6e12-4b03-8a1f-e111f1da0f7b" alt="Johannes Feiler" style="width: 150px; margin-right: 20px;" /> 
+   <img src="https://github.com/user-attachments/assets/5813b4b2-5b9b-4ea0-a5ff-843040ebe32c" alt="Johannes Feiler" style="width: 150px; margin-right: 20px;" /> 
    <div>
       <h3>Johannes Feiler (8.DAN Shihan)</h3>
       <ul style="margin: 0; padding: 0; list-style: disc inside;">
@@ -104,14 +104,14 @@ Als lizenzierte Prüfer im IFAK haben wir die Möglichkeit, bis zum 1.Kyu direkt
 • Blau (2.Kyu)  
 • Braun (1.Kyu) 
 
-*Prüfungsprogramm für Kyu-Graduierungen:*
-[PrüfungsordnungHRJJ(kyu).pdf](https://github.com/user-attachments/files/18461588/PrufungsordnungHRJJ.kyu.pdf)
-
 **Meister-Grade**  
 • Schwarz (1. – 5.Dan)  
 • Rot-Schwarz-Rot (z.B. 4./5.Dan & "Renshi")  
 • Rot-Weiß-Rot (6. – 8.Dan)  
 • Rot (9. & 10.Dan)  
+
+*Prüfungsprogramm für Kyu-Graduierungen:*
+[PrüfungsordnungHRJJ(kyu).pdf](https://github.com/user-attachments/files/18461588/PrufungsordnungHRJJ.kyu.pdf)
 
 ---
 
