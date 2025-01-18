@@ -12,6 +12,38 @@ Mit viel Begeisterung und intensiver Praxis vermitteln wir die Prinzipien des fr
 
 ---
 
+## News
+<details>
+   <summary><strong>▶ Neuigkeiten anzeigen</strong></summary>
+   <div class="news-item" style="border: 2px solid #ccc; padding: 1rem; margin-bottom: 1rem;">
+      <h3>04.11.2024</h3>
+      <p>
+         <strong>Wochenend-Seminar (Fr.18.–So.20.07.2025):</strong><br>
+         Es findet ein verbandsoffenes Seminar statt, mit  
+         <em>Andreas "Andy" Güttner (RoninZ)</em> sowie  
+         <em>Robert Planer und Johannes Feiler (TBM)</em>.
+      </p>
+      <p>
+         <strong>Bilder:</strong>
+      </p>
+      <ul>
+         <li>kampfkunstseminar_18b20072025-1.jpg</li>
+         <li>kampfkunstseminar_18b20072025-2.jpg <em>(ZeitPlan, der sich vor Ort ändern kann)</em></li>
+      </ul>
+   </div>
+   <div class="news-item" style="border: 2px solid #ccc; padding: 1rem; margin-bottom: 1rem;">
+      <h3>12.05.2024</h3>
+      <p>
+         <strong>Samstags-Seminar (Sa.15.03.2025):</strong><br>
+         Bei uns findet ein verbandsoffenes Seminar statt, mit  
+         <em>Holger Tanzberger (Diespeck)</em> und  
+         <em>Johannes Feiler (TBM)</em>.
+      </p>
+   </div>
+</details>
+
+---
+
 ## Über Uns
 Heiwa-Ryu-Jiu-Jitsu bedeutet:
 
@@ -120,44 +152,6 @@ Als lizenzierte Prüfer im IFAK haben wir die Möglichkeit, bis zum 1.Kyu direkt
 Du möchtest einen Überblick über unser Training und unsere Aktivitäten erhalten? Dann wirf einen Blick auf unsere Kanäle:  
 • [Instagram](https://www.instagram.com/jiu_jitsu_tbm), wo wir regelmäßig Fotos, Eindrücke von Veranstaltungen und kurze Videoclips posten.  
 • [YouTube](https://www.youtube.com/channel/UCy34rgHg0uicoFaSJ9eJQLw), für längere Videoeinblicke in unsere Techniken, Events und Gurtprüfungen.  
-
----
-
-## News
-
----
-
-## News
-
-<div class="news-item" style="border: 2px solid #ccc; padding: 1rem; margin-bottom: 1rem;">
-  <h3>04.11.2024</h3>
-  <p>
-    <strong>Wochenend-Seminar (Fr.18.–So.20.07.2025):</strong><br>
-    Es findet ein verbandsoffenes Seminar statt, mit  
-    <em>Andreas "Andy" Güttner (RoninZ)</em> sowie  
-    <em>Robert Planer und Johannes Feiler (TBM)</em>.
-  </p>
-  <p>
-    <strong>Bilder:</strong>
-  </p>
-  <ul>
-    <li>kampfkunstseminar_18b20072025-1.jpg</li>
-    <li>kampfkunstseminar_18b20072025-2.jpg <em>(ZeitPlan, der sich vor Ort ändern kann)</em></li>
-  </ul>
-</div>
-
-<div class="news-item" style="border: 2px solid #ccc; padding: 1rem; margin-bottom: 1rem;">
-  <h3>12.05.2024</h3>
-  <p>
-    <strong>Samstags-Seminar (Sa.15.03.2025):</strong><br>
-    Bei uns findet ein verbandsoffenes Seminar statt, mit  
-    <em>Holger Tanzberger (Diespeck)</em> und  
-    <em>Johannes Feiler (TBM)</em>.
-  </p>
-</div>
-
----
-
 
 ---
 
