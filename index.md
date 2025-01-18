@@ -5,7 +5,7 @@ permalink: /
 layout: default
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fbe71404-31cf-4638-86e0-9a5f131f0917" alt="TBM Logo" width="200" />
+  <img src="https://github.com/user-attachments/assets/d263d546-a269-4b28-b1e5-814ba482da4e" alt="tbm-jiu-jitsu-logo" width="200" />
 </p>
 
 ## Willkommen beim Turnerbund Marktleuthen 1863 e.V. 
