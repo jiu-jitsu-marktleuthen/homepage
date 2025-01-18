@@ -57,7 +57,8 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <img src="https://github.com/user-attachments/assets/e3988c30-3105-4095-94bd-18d56a14ec39" alt="tbm-logo" width="75" style="margin-right: 20px;" />
   <div>
-    <strong>Turnerbund Marktleuthen 1863 e.V. (TBM)</strong></br>
+    <strong>Turnerbund Marktleuthen 1863 e.V. (TBM)</strong>
+    <br/>
     Schützenstraße 12a, 95168 Marktleuthen
   </div>
 </div>
@@ -70,13 +71,13 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
   <img src="https://github.com/user-attachments/assets/51817342-61ba-467f-908f-d6209a90bb8a" alt="ifak-logo" width="150" style="margin-right: 20px;" />
   <div>
     <strong>BFAK → IFAK</strong>
-    <br> Ursprünglich war unser Dojo im „Bayrischen Fachverband für asiatische Kampfsportarten“ (BFAK) organisiert. Später wurde daraus der „Bundesfachverband für asiatische Kampfsportarten“, und heute sind wir im „Internationalen Fachverband für asiatische Kampfsportarten“ (IFAK) unter der Leitung von Hanshi Siegfried Lory (10. Dan).<br><br> Wir gelten dort als eingetragene Schule Nr. 124.
+    <br> Ursprünglich war unser Dojo im „Bayrischen Fachverband für asiatische Kampfsportarten“ (BFAK) organisiert.
+    Später wurde daraus der „Bundesfachverband für asiatische Kampfsportarten“, und heute sind wir im „Internationalen Fachverband für asiatische Kampfsportarten“ (IFAK) unter der Leitung von Hanshi Siegfried Lory (10. Dan).
+    <br/>
+    <br/> 
+    Wir gelten dort als eingetragene Schule Nr. 124.
   </div>
 </div>
-
-**BFAK → IFAK**
-Ursprünglich war unser Dojo im "Bayrischen Fachverband für asiatische Kampfsportarten" (BFAK) organisiert. Später wurde daraus der "Bundesfachverband für asiatische Kampfsportarten" und heute sind wir im Internationalen Fachverband für asiatische Kampfsportarten" (IFAK) unter der Leitung von Hanshi Siegfried Lory (10.Dan).  
-Wir gelten dort als eingetragene Schule Nr. 124.
 
 ---
 
