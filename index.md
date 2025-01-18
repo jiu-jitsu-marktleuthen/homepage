@@ -54,11 +54,7 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
   – Freitag 19:00 – 20:30 Uhr  
 
 ### Trainingsort
-Wir trainieren in der Halle des TBM.
-<div style="margin-bottom: 1em;"> <img src="https://github.com/user-attachments/assets/e3988c30-3105-4095-94bd-18d56a14ec39" alt="tbm-logo" width="75" style="display: block; margin: 0 auto;" />
-  <strong>Turnerbund Marktleuthen 1863 e.V. (TBM)</strong>
-  <br> Schützenstraße 12a, 95168 Marktleuthen 
-</div>
+<div style="display: flex; align-items: center; margin-bottom: 1em;"> <img src="https://github.com/user-attachments/assets/e3988c30-3105-4095-94bd-18d56a14ec39" alt="tbm-logo" width="75" style="margin-right: 20px;" /> <div> <strong>Turnerbund Marktleuthen 1863 e.V. (TBM)</strong><br> Schützenstraße 12a, 95168 Marktleuthen </div> </div>
 
 ---
 
