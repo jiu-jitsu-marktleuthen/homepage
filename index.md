@@ -66,7 +66,6 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
 ---
 
 ## Verband
-<img src="https://github.com/user-attachments/assets/51817342-61ba-467f-908f-d6209a90bb8a" alt="ifak-logo" width="150" />   
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <img src="https://github.com/user-attachments/assets/51817342-61ba-467f-908f-d6209a90bb8a" alt="ifak-logo" width="150" style="margin-right: 20px;" />
   <div>
