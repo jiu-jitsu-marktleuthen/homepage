@@ -11,7 +11,7 @@ Das Repository umfasst folgende Kernelemente:
 
 ```
 📂 content/  
-├── 🖥️ `index.md`            # Die Hauptseite und gleichzeitig die einzigte Inhalt der Webseite  
-├── ⚙️ `_config.yml`         # Enthält die Konfigurations- und Steuerungseinstellungen der Jekyll-Webseite (z. B. Themes, Navigation)  
-└── 🌐 `CNAME`               # Verknüpft das GitHub Pages-Projekt mit jiu-jitsu-marktleuthen.de
+├── 🖥️ `index.md`      # Die Hauptseite und gleichzeitig die einzigte Inhalt der Webseite  
+├── ⚙️ `_config.yml`   # Enthält die Konfigurations- und Steuerungseinstellungen der Jekyll-Webseite (z. B. Themes, Navigation)  
+└── 🌐 `CNAME`         # Verknüpft das GitHub Pages-Projekt mit jiu-jitsu-marktleuthen.de
 ```
