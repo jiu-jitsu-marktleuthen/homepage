@@ -132,6 +132,8 @@ E-Mail: [info@tb-marktleuthen.de](mailto:info@tb-marktleuthen.de)
 ---
 
 ## Haftungsausschluss
+<details>
+  <summary><strong>Details einblenden</strong></summary>
 ### Haftung für Inhalte
 Die Inhalte dieser Seite wurden mit größter Sorgfalt erstellt. Wir übernehmen jedoch keine Gewähr für die Korrektheit, Vollständigkeit und Aktualität der Inhalte. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte nach den allgemeinen Gesetzen verantwortlich. Gemäß §§ 8 bis 10 TMG sind wir jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Hinweisen auf rechtswidrige Tätigkeiten zu suchen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntniserlangung einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
 
@@ -140,6 +142,7 @@ Unsere Webseite enthält Links zu externen Webseiten, auf deren Inhalte wir kein
 
 ### Urheberrecht
 Alle durch die Betreiber dieser Webseite erstellten Inhalte und Werke unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung oder jegliche Art der Verwertung außerhalb der Grenzen des Urheberrechts bedürfen der schriftlichen Zustimmung des jeweiligen Autors. Downloads oder Kopien dieser Seite sind lediglich für den privaten, nicht kommerziellen Gebrauch gestattet. Sollten Inhalte auf dieser Webseite nicht vom Betreiber erstellt worden sein, werden die Urheberrechte Dritter beachtet und als solche gekennzeichnet. Sollte dennoch eine Urheberrechtsverletzung bekannt werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen entfernen wir derartige Inhalte umgehend.
+</details>
 
 ---
 
