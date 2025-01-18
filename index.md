@@ -61,7 +61,8 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
 
 ## Training
 ### Trainingszeiten
-• **Kinder**: Dienstag 18:00 – 19:30 Uhr  
+• **Kinder**: 
+  – Dienstag 18:00 – 19:30 Uhr  
 • **Erwachsene**:  
   – Dienstag 19:30 – 21:00 Uhr  
   – Freitag 19:00 – 20:30 Uhr  
@@ -116,9 +117,9 @@ Als lizenzierte Prüfer im IFAK haben wir die Möglichkeit, bis zum 1.Kyu direkt
 ---
 
 ## Bilder & Videos
-Du möchtest einen Überblick über unser Training und unsere Aktivitäten erhalten? Dann wirf einen Blick auf unsere Kanäle:
+Du möchtest einen Überblick über unser Training und unsere Aktivitäten erhalten? Dann wirf einen Blick auf unsere Kanäle:  
 • [Instagram](https://www.instagram.com/jiu_jitsu_tbm), wo wir regelmäßig Fotos, Eindrücke von Veranstaltungen und kurze Videoclips posten.  
-• [YouTube](https://www.youtube.com/channel/UCy34rgHg0uicoFaSJ9eJQLw), für längere Videoeinblicke in unsere Techniken, Events und Gurtprüfungen.
+• [YouTube](https://www.youtube.com/channel/UCy34rgHg0uicoFaSJ9eJQLw), für längere Videoeinblicke in unsere Techniken, Events und Gurtprüfungen.  
 
 ---
 
