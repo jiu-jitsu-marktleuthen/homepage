@@ -197,4 +197,6 @@ Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Date
 **Werbeverbot:**  
 Die Nutzung von im Impressum veröffentlichten Kontaktdaten durch Dritte zur Übersendung nicht ausdrücklich angeforderter Werbung wird ausdrücklich widersprochen. Die Betreiber behalten sich rechtliche Schritte im Falle unverlangter Zusendung von Werbematerialien, wie Spam-E-Mails, vor.
 
+---
+
 *© {{ site.time | date: "%Y" }} Heiwa-Ryu-Jiu-Jitsu Dojo – Turnerbund Marktleuthen 1863 e.V.*  
