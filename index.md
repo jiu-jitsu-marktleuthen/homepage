@@ -4,9 +4,7 @@ description: "Turnerbund Marktleuthen 1863 e.V."
 permalink: /
 layout: default
 ---
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d263d546-a269-4b28-b1e5-814ba482da4e" alt="tbm-jiu-jitsu-logo" width="200" />
-</p>
+<p align="center"><img src="https://github.com/user-attachments/assets/d263d546-a269-4b28-b1e5-814ba482da4e" alt="tbm-jiu-jitsu-logo" width="200" /></p>
 
 ## Willkommen beim Turnerbund Marktleuthen 1863 e.V. 
 Wir sind das Heiwa-Ryu-Jiu-Jitsu Dojo – ein Ort, an dem traditionelle Kampfkunst und moderne Trainingsmethoden aufeinandertreffen. 
@@ -62,7 +60,9 @@ Schützenstraße 12a, 95168 Marktleuthen
 ---
 
 ## Verband
-### BFAK → IFAK
+<img src="https://github.com/user-attachments/assets/51817342-61ba-467f-908f-d6209a90bb8a" alt="tbm-jiu-jitsu-logo" width="200" />  
+
+### BFAK → IFAK  
 Ursprünglich war unser Dojo im "Bayrischen Fachverband für asiatische Kampfsportarten" (BFAK) organisiert. Später wurde daraus der "Bundesfachverband für asiatische Kampfsportarten" und heute sind wir im Internationalen Fachverband für asiatische Kampfsportarten" (IFAK) unter der Leitung von Hanshi Siegfried Lory (10.Dan).  
 Wir gelten dort als eingetragene Schule Nr. 124.
 
