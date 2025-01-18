@@ -27,7 +27,6 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
 ## Trainer
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-   <img src="https://github.com/user-attachments/assets/5813b4b2-5b9b-4ea0-a5ff-843040ebe32c" alt="Johannes Feiler" style="width: 150px; margin-right: 20px;" /> 
    <div>
       <h3>Johannes Feiler (8.DAN Shihan)</h3>
       <ul style="margin: 0; padding: 0; list-style: disc inside;">
@@ -39,10 +38,10 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
          <li>2019: 7.Dan, 2023: 8.Dan</li>
       </ul>
    </div>
+   <img src="https://github.com/user-attachments/assets/5813b4b2-5b9b-4ea0-a5ff-843040ebe32c" alt="Johannes Feiler" style="width: 150px; margin-right: 20px;" /> 
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-   <img src="https://github.com/user-attachments/assets/a3a7238c-97a3-4b21-b358-e01301a7ef9f" alt="Robert Planer" style="width: 150px; margin-right: 20px;" /> 
    <div>
       <h3>Robert Planer (8.DAN Shihan)</h3>
       <ul style="margin: 0; padding: 0; list-style: disc inside;">
@@ -55,6 +54,7 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
          <li>2019: 7.Dan, 2023: 8.Dan</li>
       </ul>
    </div>
+   <img src="https://github.com/user-attachments/assets/a3a7238c-97a3-4b21-b358-e01301a7ef9f" alt="Robert Planer" style="width: 150px; margin-right: 20px;" /> 
 </div>
 
 ---
@@ -69,12 +69,12 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
 
 ### Trainingsort
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
-  <img src="https://github.com/user-attachments/assets/e3988c30-3105-4095-94bd-18d56a14ec39" alt="tbm-logo" width="75" style="margin-right: 20px;" />
   <div>
     <strong>Turnerbund Marktleuthen 1863 e.V. (TBM)</strong>
     <br/>
     Schützenstraße 12a, 95168 Marktleuthen
   </div>
+  <img src="https://github.com/user-attachments/assets/e3988c30-3105-4095-94bd-18d56a14ec39" alt="tbm-logo" width="75" style="margin-right: 20px;" />
 </div>
 
 ---
