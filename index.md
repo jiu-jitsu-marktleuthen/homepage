@@ -67,6 +67,7 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
 
 ## Verband
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
+  <img src="https://github.com/user-attachments/assets/51817342-61ba-467f-908f-d6209a90bb8a" alt="ifak-logo" width="75" style="margin-right: 20px;" />
   <div>
     <strong>BFAK → IFAK</strong>
     <br> Ursprünglich war unser Dojo im „Bayrischen Fachverband für asiatische Kampfsportarten“ (BFAK) organisiert.
@@ -75,7 +76,6 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
     <br/> 
     Wir gelten dort als eingetragene Schule Nr. 124.
   </div>
-  <img src="https://github.com/user-attachments/assets/51817342-61ba-467f-908f-d6209a90bb8a" alt="ifak-logo" width="150" style="margin-right: 20px;" />
 </div>
 
 ---
