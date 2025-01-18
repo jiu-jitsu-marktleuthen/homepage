@@ -123,6 +123,22 @@ Du möchtest einen Überblick über unser Training und unsere Aktivitäten erhal
 
 ---
 
+## News
+
+### 04.11.2024
+
+Am Wochenende vom Fr.18.07.-So.20.07.2025 findet bei uns ein verbandsoffenes Seminar mit  
+Andreas "Andy" Güttner (RoninZ) und Robert Planer / Johannes Feiler (TBM) statt.
+
+---
+
+### 12.05.2024
+
+Am Sa.15.03.2025 findet bei uns ein verbandsoffenes Seminar mit  
+Holger Tanzberger (Diespeck) und Johannes Feiler (TBM) statt.
+
+---
+
 ## Kontakt
 Bei Fragen oder Interesse am Probetraining:  
 • Telefon: 0170 / 9007027 (ab 17.00 Uhr, z.B. "Johannes Feiler")  
