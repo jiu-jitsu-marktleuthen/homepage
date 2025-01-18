@@ -33,7 +33,7 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
       <ul style="margin: 0; padding: 0; list-style: disc inside;">
          <li>Begann 1992/93 mit Ju-Jutsu (DJJV)</li>
          <li>2007: 2.Dan, anerkannt durch Hanshi Daniel Blanchet (10.Dan Aiki-Jitsu)</li>
-         <li>2012: Benennung der Heiwa-Ryu ("Friedliche Schule“) mit Robert Planner/li>
+         <li>2012: Benennung der Heiwa-Ryu ("Friedliche Schule“) mit Robert Planner</li>
          <li>2014: 5.Dan Ju-/Jiu-Jitsu (IFAK)</li>
          <li>2016: 6.Dan mit Ehrentitel "Shihan"</li>
          <li>2019: 7.Dan, 2023: 8.Dan</li>
@@ -95,7 +95,7 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
 ---
 
 ## Prüfungen
-Als lizenzierte Prüfer im IFAK haben wir die Möglichkeit, bis zum 1.Kyu direkt im eigenen Dojo zu prüfen, vorausgesetzt, die Prüflinge sind Mitglied im TB Marktleuthen und im IFAK.
+Als lizenzierte Prüfer im IFAK haben wir die Möglichkeit, bis zum 1.Kyu direkt im eigenen Dojo zu prüfen, vorausgesetzt, die Prüflinge sind Mitglied im IFAK.
 
 ### Gürtel-Farb-System
 • Weiß (6.Kyu, keine Prüfung)  
