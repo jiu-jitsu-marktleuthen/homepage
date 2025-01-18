@@ -26,29 +26,52 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
 
 ## Trainer
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+   <img src="https://github.com/user-attachments/assets/d2e901b1-6e12-4b03-8a1f-e111f1da0f7b" alt="Johannes Feiler" style="width: 150px; margin-right: 20px;" /> 
+   <div>
+      <h3>Johannes Feiler (8.DAN Shihan)</h3>
+      <ul style="margin: 0; padding: 0; list-style: disc inside;">
+         <li>Begann 1992/93 mit Ju-Jutsu (DJJV)</li>
+         <li>2007: 2.Dan, international anerkannt durch Hanshi Daniel Blanchet (10.Dan Aiki-Jitsu)</li>
+         <li>2012: Entwickelte mit Robert Planer den Stil Heiwa-Ryu-Jiu-Jitsu</li>
+         <li>2014: 5.Dan Ju-/Jiu-Jitsu (IFAK)</li>
+         <li>2016: 6.Dan mit Ehrentitel „Shihan“</li>
+         <li>2019: 7.Dan, 2023: 8.Dan</li>
+      </ul>
+   </div>
+</div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+   <img src="https://github.com/user-attachments/assets/d2e901b1-6e12-4b03-8a1f-e111f1da0f7b" alt="Johannes Feiler" style="width: 150px; margin-right: 20px;" /> 
+   <div>
+      <h3>Johannes Feiler (8.DAN Shihan)</h3>
+      <ul style="margin: 0; padding: 0; list-style: disc inside;">
+         <li>Begann 1992/93 mit Ju-Jutsu (DJJV)</li>
+         <li>2007: 2.Dan, internat. anerkannt durch Hanshi Daniel Blanchet (10.Dan Aiki-Jitsu)</li>
+         <li>2012: Entwickelte mit Robert Planer den Stil Heiwa-Ryu-Jiu-Jitsu</li>
+         <li>2014: 5.Dan Ju-/Jiu-Jitsu (IFAK)</li>
+         <li>2016: 6.Dan mit Ehrentitel „Shihan“</li>
+         <li>2019: 7.Dan, 2023: 8.Dan</li>
+      </ul>
+   </div>
+</div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+   <img src="https://github.com/user-attachments/assets/a3a7238c-97a3-4b21-b358-e01301a7ef9f" alt="Robert Planer" style="width: 150px; margin-right: 20px;" /> 
+   <div>
+      <h3>Robert Planer (8.DAN Shihan)</h3>
+      <ul style="margin: 0; padding: 0; list-style: disc inside;">
+         <li>Begann 1992/93 mit Shotokan-Karate (DKV)</li>
+         <li>1997: Erster Kontakt mit Ju-/Jiu-Jitsu (BFAK/IFAK)</li>
+         <li>Seit 2000: Trainer im TB Marktleuthen 1863 e.V.</li>
+         <li>2012: Stil-Entwicklung (Heiwa-Ryu-Jiu-Jitsu) gemeinsam mit Johannes Feiler</li>
+         <li>2014: 5.Dan Ju-/Jiu-Jitsu (IFAK)</li>
+         <li>2016: 6.Dan mit Ehrentitel „Shihan“</li>
+         <li>2019: 7.Dan, 2023: 8.Dan</li>
+      </ul>
+   </div>
+</div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1em;"> <!-- Bild links (Platzhalter-URL als Beispiel) --> <img src="https://github.com/user-attachments/assets/d2e901b1-6e12-4b03-8a1f-e111f1da0f7b" alt="Johannes Feiler" style="width: 150px; margin-right: 20px;" /> <div> <h3>Johannes Feiler (8.DAN Shihan)</h3> <ul style="margin: 0; padding: 0; list-style: disc inside;"> <li>Begann 1992/93 mit Ju-Jutsu (DJJV)</li> <li>2007: 2.Dan, international anerkannt durch Hanshi Daniel Blanchet (10.Dan Aiki-Jitsu)</li> <li>2012: Entwickelte mit Robert Planer den Stil Heiwa-Ryu-Jiu-Jitsu</li> <li>2014: 5.Dan Ju-/Jiu-Jitsu (IFAK)</li> <li>2016: 6.Dan mit Ehrentitel „Shihan“</li> <li>2019: 7.Dan, 2023: 8.Dan</li> </ul> </div> </div>
-
-
-
-### Johannes Feiler (8.DAN Shihan)
-• Begann 1992/93 mit Ju-Jutsu (DJJV)  
-• 2007: 2.Dan, international anerkannt durch Hanshi Daniel Blanchet (10.Dan Aiki-Jitsu)  
-• 2012: Entwickelte mit Robert Planer den Stil Heiwa-Ryu-Jiu-Jitsu  
-• 2014: 5.Dan Ju-/Jiu-Jitsu (IFAK)  
-• 2016: 6.Dan mit Ehrentitel "Shihan"  
-• 2019: 7.Dan, 2023: 8.Dan  
-
-### Robert Planer (8.DAN Shihan)  
-• Begann 1992/93 mit Shotokan-Karate (DKV)  
-• 1997: Erster Kontakt mit Ju-/Jiu-Jitsu (BFAK/IFAK)  
-• Seit 2000: Trainer im TB Marktleuthen 1863 e.V.  
-• 2012: Stil-Entwicklung (Heiwa-Ryu-Jiu-Jitsu) gemeinsam mit Johannes Feiler  
-• 2014: 5.Dan Ju-/Jiu-Jitsu (IFAK)  
-• 2016: 6.Dan mit Ehrentitel "Shihan"  
-• 2019: 7.Dan, 2023: 8.Dan  
 
 ---
 
@@ -187,7 +210,5 @@ Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Date
 
 **Werbeverbot:**  
 Die Nutzung von im Impressum veröffentlichten Kontaktdaten durch Dritte zur Übersendung nicht ausdrücklich angeforderter Werbung wird ausdrücklich widersprochen. Die Betreiber behalten sich rechtliche Schritte im Falle unverlangter Zusendung von Werbematerialien, wie Spam-E-Mails, vor.
-
----
 
 *© {{ site.time | date: "%Y" }} Heiwa-Ryu-Jiu-Jitsu Dojo – Turnerbund Marktleuthen 1863 e.V.*  
