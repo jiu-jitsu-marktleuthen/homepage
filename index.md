@@ -32,7 +32,7 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
       <h3>Johannes Feiler (8.DAN Shihan)</h3>
       <ul style="margin: 0; padding: 0; list-style: disc inside;">
          <li>Begann 1992/93 mit Ju-Jutsu (DJJV)</li>
-         <li>2007: 2.Dan, internat. anerkannt durch Hanshi Daniel Blanchet (10.Dan Aiki-Jitsu)</li>
+         <li>2007: 2.Dan, anerkannt durch Hanshi Daniel Blanchet (10.Dan Aiki-Jitsu)</li>
          <li>2012: Entwickelte mit Robert Planer den Stil Heiwa-Ryu-Jiu-Jitsu</li>
          <li>2014: 5.Dan Ju-/Jiu-Jitsu (IFAK)</li>
          <li>2016: 6.Dan mit Ehrentitel „Shihan“</li>
