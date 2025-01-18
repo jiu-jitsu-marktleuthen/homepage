@@ -116,15 +116,16 @@ Als lizenzierte Prüfer im IFAK haben wir die Möglichkeit, bis zum 1.Kyu direkt
 ---
 
 ## Bilder & Videos
-• Viele unserer Eindrücke findest bei uns auf Instagram: [Heiwa-Ryu-Jiu-Jitsu auf Instagram](https://www.instagram.com/jiu_jitsu_tbm)  
-• Aktuelle Clips siehst du auch auf unserem YouTube-Kanal:  [Heiwa-Ryu-Jiu-Jitsu auf YouTube](https://www.youtube.com/channel/UCy34rgHg0uicoFaSJ9eJQLw)   
+Du möchtest einen Überblick über unser Training und unsere Aktivitäten erhalten? Dann wirf einen Blick auf unsere Kanäle:
+• [Instagram](https://www.instagram.com/jiu_jitsu_tbm), wo wir regelmäßig Fotos, Eindrücke von Veranstaltungen und kurze Videoclips posten.  
+• [YouTube](https://www.youtube.com/channel/UCy34rgHg0uicoFaSJ9eJQLw), für längere Videoeinblicke in unsere Techniken, Events und Gurtprüfungen.
 
 ---
 
 ## Kontakt
 Bei Fragen oder Interesse am Probetraining:  
 • Telefon: 0170 / 9007027 (ab 17.00 Uhr, z.B. "Johannes Feiler")  
-Einfach vorbeikommen ist ebenfalls möglich!
+• Oder komm gern direkt bei unserem Training vorbei – wir freuen uns auf deinen Besuch!
 
 ---
 
