@@ -15,9 +15,8 @@ Mit viel Begeisterung und intensiver Praxis vermitteln wir die Prinzipien des fr
 ## News
 
 <div class="news-item" style="border: 2px solid #ccc; padding: 1rem; margin-bottom: 1rem;">
-   <h3>12.05.2024</h3>
+   <h3>Sa. 15.03.2025</h3>
    <p>
-      <strong>Samstags-Seminar (Sa. 15.03.2025):</strong><br>
       Bei uns findet ein verbandsoffenes Seminar statt, mit  
       <em>Holger Tanzberger (Diespeck)</em> und  
       <em>Johannes Feiler (TBM)</em>.
@@ -30,9 +29,8 @@ Mit viel Begeisterung und intensiver Praxis vermitteln wir die Prinzipien des fr
    </ul>
 </div>
 <div class="news-item" style="border: 2px solid #ccc; padding: 1rem; margin-bottom: 1rem;">
-   <h3>04.11.2024</h3>
+   <h3>Fr. 18.07. - So. 20.07.2025</h3>
    <p>
-      <strong>Wochenend-Seminar (Fr. 18.07. - So. 20.07.2025):</strong><br>
       Es findet ein verbandsoffenes Seminar statt, mit  
       <em>Andreas "Andy" Güttner (RoninZ)</em> sowie  
       <em>Robert Planer und Johannes Feiler (TBM)</em>.
