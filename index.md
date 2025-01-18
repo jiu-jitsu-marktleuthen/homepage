@@ -61,7 +61,7 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
 
 ## Training
 ### Trainingszeiten
-• **Kinder**: 
+• **Kinder**:  
   – Dienstag 18:00 – 19:30 Uhr  
 • **Erwachsene**:  
   – Dienstag 19:30 – 21:00 Uhr  
