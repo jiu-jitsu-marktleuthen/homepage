@@ -25,7 +25,7 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
 ---
 
 ## Trainer
-<img src="https://github.com/user-attachments/assets/0afc9e0b-0276-42eb-aa68-7776a6e324c9" alt="joe-robbi-trainer" width="400" />  
+<img src="https://github.com/user-attachments/assets/2129b53a-66ac-41c3-9a2e-8ce6138d4c25" alt="joe-robbi-trainer" width="400" />  
 
 ### Johannes Feiler (8.DAN Shihan)
 • Begann 1992/93 mit Ju-Jutsu (DJJV)  
@@ -54,9 +54,10 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
   – Freitag 19:00 – 20:30 Uhr  
 
 ### Trainingsort
-Wir trainieren in der Halle des  
+<img src="https://github.com/user-attachments/assets/e3988c30-3105-4095-94bd-18d56a14ec39" alt="tbm-logo" width="150" />    
 
-Turnerbund Marktleuthen 1863 e.V. (TBM)  
+Wir trainieren in der Halle des    
+**Turnerbund Marktleuthen 1863 e.V. (TBM)**  
 Schützenstraße 12a, 95168 Marktleuthen  
 
 ---
