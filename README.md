@@ -9,13 +9,7 @@ Dieses Projekt enthält die offizielle Webseite des Dojos, die über **GitHub Pa
 ## 📋 Inhalt  
 Das Repository umfasst folgende Kernelemente:
 
-### 🖥️ **index.md**  
-Die Hauptseite – und gleichzeitig die einzigste Seite – der Webseite:  
-- Informationen zu Trainingszeiten, Veranstaltungen und Prüfungen
-- Rechtlichen Hinweisen wie Impressum und Datenschutz
-
-### ⚙️ **_config.yml & CNAME**  
-- **_config.yml:**  
-   Enthält die Konfigurations- und Steuerungseinstellungen der Jekyll-Webseite (z. B. Themes, Navigation).  
-- **CNAME:**  
-   Verknüpft das GitHub Pages-Projekt mit der benutzerdefinierten Domain [jiu-jitsu-marktleuthen.de](https://jiu-jitsu-marktleuthen.de).
+📂 Repository/
+├── 🖥️ index.md            # Die Hauptseite- und gleichzeitig die einzigste Seite – der Webseite
+├── ⚙️ _config.yml         # Enthält die Konfigurations- und Steuerungseinstellungen der Jekyll-Webseite (z. B. Themes, Navigation
+└── 🌐 CNAME               # Verknüpft das GitHub Pages-Projekt mit jiu-jitsu-marktleuthen.de
