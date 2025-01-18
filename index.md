@@ -102,16 +102,16 @@ Als lizenzierte Prüfer im IFAK haben wir die Möglichkeit, bis zum 1.Kyu direkt
 • Orange (4.Kyu)  
 • Grün (3.Kyu)  
 • Blau (2.Kyu)  
-• Braun (1.Kyu)  
+• Braun (1.Kyu) 
+
+*Prüfungsprogramm für Kyu-Graduierungen:*
+[PrüfungsordnungHRJJ(kyu).pdf](https://github.com/user-attachments/files/18461588/PrufungsordnungHRJJ.kyu.pdf)
 
 **Meister-Grade**  
 • Schwarz (1. – 5.Dan)  
 • Rot-Schwarz-Rot (z.B. 4./5.Dan & "Renshi")  
 • Rot-Weiß-Rot (6. – 8.Dan)  
 • Rot (9. & 10.Dan)  
-
-*Prüfungsprogramm für Kyu-Graduierungen:*
-[PrüfungsordnungHRJJ(kyu).pdf](https://github.com/user-attachments/files/18461588/PrufungsordnungHRJJ.kyu.pdf)
 
 ---
 
