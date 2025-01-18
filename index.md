@@ -25,7 +25,7 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
 ---
 
 ## Trainer
-<img src="https://github.com/user-attachments/assets/2129b53a-66ac-41c3-9a2e-8ce6138d4c25" alt="joe-robbi-trainer" width="400" />  
+<img src="https://github.com/user-attachments/assets/2129b53a-66ac-41c3-9a2e-8ce6138d4c25" alt="joe-robbi-trainer" width="350" />  
 
 ### Johannes Feiler (8.DAN Shihan)
 • Begann 1992/93 mit Ju-Jutsu (DJJV)  
@@ -54,18 +54,18 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
   – Freitag 19:00 – 20:30 Uhr  
 
 ### Trainingsort
-<img src="https://github.com/user-attachments/assets/e3988c30-3105-4095-94bd-18d56a14ec39" alt="tbm-logo" width="150" />    
-
-Wir trainieren in der Halle des    
-**Turnerbund Marktleuthen 1863 e.V. (TBM)**  
-Schützenstraße 12a, 95168 Marktleuthen  
+<div style="text-align: center; margin-bottom: 1em;"> <img src="https://github.com/user-attachments/assets/e3988c30-3105-4095-94bd-18d56a14ec39" alt="tbm-logo" width="75" style="display: block; margin: 0 auto;" />
+  <strong>Turnerbund Marktleuthen 1863 e.V. (TBM)</strong>
+  <br> Schützenstraße 12a, 95168 Marktleuthen 
+</div>
+Wir trainieren in der Halle des TBM.
 
 ---
 
 ## Verband
-<img src="https://github.com/user-attachments/assets/51817342-61ba-467f-908f-d6209a90bb8a" alt="ifak-logo" width="150" />  
+<img src="https://github.com/user-attachments/assets/51817342-61ba-467f-908f-d6209a90bb8a" alt="ifak-logo" width="150" />   
 
-### BFAK → IFAK  
+**BFAK → IFAK**
 Ursprünglich war unser Dojo im "Bayrischen Fachverband für asiatische Kampfsportarten" (BFAK) organisiert. Später wurde daraus der "Bundesfachverband für asiatische Kampfsportarten" und heute sind wir im Internationalen Fachverband für asiatische Kampfsportarten" (IFAK) unter der Leitung von Hanshi Siegfried Lory (10.Dan).  
 Wir gelten dort als eingetragene Schule Nr. 124.
 
