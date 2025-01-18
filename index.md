@@ -14,35 +14,38 @@ Mit viel Begeisterung und intensiver Praxis vermitteln wir die Prinzipien des fr
 
 ## News
 
-<div class="news-item" style="border: 2px solid #ccc; padding: 1rem; margin-bottom: 1rem;">
-   <h3>Sa. 15.03.2025</h3>
-   <p>
-      Bei uns findet ein verbandsoffenes Seminar statt, mit  
-      <em>Holger Tanzberger (Diespeck)</em> und  
-      <em>Johannes Feiler (TBM)</em>.
-   </p>
-   <p>
-      <strong>Details zum Seminar herunterladen:</strong>
-   </p>
-   <ul>
-      <li><a href="https://github.com/user-attachments/files/18466483/Budo.Seminar.15032025.pdf" download="Budo_Seminar_15032025.pdf">Budo Seminar 15032025 (PDF)</a></li>
-   </ul>
-</div>
-<div class="news-item" style="border: 2px solid #ccc; padding: 1rem; margin-bottom: 1rem;">
-   <h3>Fr. 18.07. - So. 20.07.2025</h3>
-   <p>
-      Es findet ein verbandsoffenes Seminar statt, mit  
-      <em>Andreas "Andy" Güttner (RoninZ)</em> sowie  
-      <em>Robert Planer und Johannes Feiler (TBM)</em>.
-   </p>
-   <p>
-      <strong>Details zum Seminar herunterladen:</strong>
-   </p>
-   <ul>
-      <li><a href="https://github.com/user-attachments/assets/6acdf2d0-5780-4c76-ba7b-cf022aa3ccb8" download="Seminar_Details_18072025.pdf">Seminar Details 18.07.2025 (PDF)</a></li>
-      <li><a href="https://github.com/user-attachments/assets/369612b1-ed07-4700-8493-5352397556e9" download="Zeitplan_18072025.pdf">Zeitplan 18.07.2025 (PDF) <em>(Zeitplan, der sich vor Ort ändern kann)</em></a></li>
-   </ul>
-</div>
+<details>
+   <summary><strong>▶ Seminare & Veranstaltungen ausklappen</strong></summary>
+   <div class="news-item" style="border: 2px solid #ccc; padding: 1rem; margin-bottom: 1rem;">
+      <h3>Sa. 15.03.2025</h3>
+      <p>
+         Bei uns findet ein verbandsoffenes Seminar statt, mit  
+         <em>Holger Tanzberger (Diespeck)</em> und  
+         <em>Johannes Feiler (TBM)</em>.
+      </p>
+      <p>
+         <strong>Details zum Seminar herunterladen:</strong>
+      </p>
+      <ul>
+         <li><a href="https://github.com/user-attachments/files/18466483/Budo.Seminar.15032025.pdf" download="Budo_Seminar_15032025.pdf">Budo Seminar 15032025 (PDF)</a></li>
+      </ul>
+   </div>
+   <div class="news-item" style="border: 2px solid #ccc; padding: 1rem; margin-bottom: 1rem;">
+      <h3>Fr. 18.07. - So. 20.07.2025</h3>
+      <p>
+         Es findet ein verbandsoffenes Seminar statt, mit  
+         <em>Andreas "Andy" Güttner (RoninZ)</em> sowie  
+         <em>Robert Planer und Johannes Feiler (TBM)</em>.
+      </p>
+      <p>
+         <strong>Details zum Seminar herunterladen:</strong>
+      </p>
+      <ul>
+         <li><a href="https://github.com/user-attachments/assets/6acdf2d0-5780-4c76-ba7b-cf022aa3ccb8" download="Seminar_Details_18072025.pdf">Seminar Details 18.07.2025 (PDF)</a></li>
+         <li><a href="https://github.com/user-attachments/assets/369612b1-ed07-4700-8493-5352397556e9" download="Zeitplan_18072025.pdf">Zeitplan 18.07.2025 (PDF) <em>(Zeitplan, der sich vor Ort ändern kann)</em></a></li>
+      </ul>
+   </div>
+</details>
 
 ---
 
@@ -192,7 +195,7 @@ E-Mail: [info@tb-marktleuthen.de](mailto:info@tb-marktleuthen.de)
 
 ## Haftungsausschluss
 <details>
-  <summary><strong>▶ Rechtliche Hinweise anzeigen</strong></summary>
+  <summary><strong>▶ Rechtliche Hinweise ausklappen</strong></summary>
 
   <h3>Haftung für Inhalte</h3>
   <p>
