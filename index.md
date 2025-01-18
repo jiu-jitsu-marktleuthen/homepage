@@ -146,7 +146,7 @@ Als lizenzierte Prüfer im IFAK haben wir die Möglichkeit, bis zum 1.Kyu direkt
 • Rot (9. & 10.Dan)  
 
 *Prüfungsprogramm für Kyu-Graduierungen:*
-[PrüfungsordnungHRJJ(kyu).pdf](https://github.com/user-attachments/files/18461588/PrufungsordnungHRJJ.kyu.pdf)
+[Prüfungsordnung KYU (PDF)](https://github.com/user-attachments/files/18461588/PrufungsordnungHRJJ.kyu.pdf)
 
 ---
 
