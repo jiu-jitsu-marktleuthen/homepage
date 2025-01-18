@@ -7,7 +7,7 @@ layout: default
 <p align="center"><img src="https://github.com/user-attachments/assets/d263d546-a269-4b28-b1e5-814ba482da4e" alt="tbm-jiu-jitsu-logo" width="200" /></p>
 
 ## Willkommen beim Turnerbund Marktleuthen 1863 e.V. 
-Wir sind das Heiwa-Ryu-Jiu-Jitsu Dojo – ein Ort, an dem traditionelle Kampfkunst und moderne Trainingsmethoden aufeinandertreffen. 
+Wir sind das **Heiwa-Ryu-Jiu-Jitsu Dojo** – ein Ort, an dem traditionelle Kampfkunst und moderne Trainingsmethoden aufeinandertreffen. 
 Mit viel Begeisterung und intensiver Praxis vermitteln wir die Prinzipien des friedlichen, aber effektiven Jiu-Jitsu.
 
 ---
@@ -15,10 +15,10 @@ Mit viel Begeisterung und intensiver Praxis vermitteln wir die Prinzipien des fr
 ## Über Uns
 Heiwa-Ryu-Jiu-Jitsu bedeutet:
 
-• Heiwa: Frieden  
-• Ryu: Schule/Stil  
-• Jiu/Ju: Sanft  
-• Jitsu/Jutsu: Kunst
+• **Heiwa**: Frieden  
+• **Ryu**: Schule/Stil  
+• **Jiu/Ju**: Sanft  
+• **Jitsu/Jutsu**: Kunst
 
 Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditionellen Jiu-Jitsu, verknüpft mit Elementen des Shotokan-Karate (Heian-Katas) sowie Techniken aus Hanbo (Kurzstock) und Bokken (Holzschwert). Wir möchten Katas und deren Bunkai an die Prinzipien des Jiu-Jitsu anpassen – für eine vielseitige und ganzheitliche Kampfkunst.
 
@@ -50,15 +50,15 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
 ### Trainingszeiten
 • Kinder: Dienstag 18:00 – 19:30 Uhr  
 • Erwachsene:  
-  – Dienstag 19:30 – 21:15 Uhr  
+  – Dienstag 19:30 – 21:00 Uhr  
   – Freitag 19:00 – 20:30 Uhr  
 
 ### Trainingsort
-<div style="text-align: center; margin-bottom: 1em;"> <img src="https://github.com/user-attachments/assets/e3988c30-3105-4095-94bd-18d56a14ec39" alt="tbm-logo" width="75" style="display: block; margin: 0 auto;" />
+Wir trainieren in der Halle des TBM.
+<div style="margin-bottom: 1em;"> <img src="https://github.com/user-attachments/assets/e3988c30-3105-4095-94bd-18d56a14ec39" alt="tbm-logo" width="75" style="display: block; margin: 0 auto;" />
   <strong>Turnerbund Marktleuthen 1863 e.V. (TBM)</strong>
   <br> Schützenstraße 12a, 95168 Marktleuthen 
 </div>
-Wir trainieren in der Halle des TBM.
 
 ---
 
