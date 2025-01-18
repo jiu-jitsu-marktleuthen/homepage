@@ -25,7 +25,7 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
 ---
 
 ## Trainer
-<img src="https://github.com/user-attachments/assets/2129b53a-66ac-41c3-9a2e-8ce6138d4c25" alt="joe-robbi-trainer" width="350" />  
+<img src="https://github.com/user-attachments/assets/e1b2e8ad-2b12-47e9-9ffd-c8e592ad3cf1" alt="joe-robbi-trainer" width="350" />  
 
 ### Johannes Feiler (8.DAN Shihan)
 • Begann 1992/93 mit Ju-Jutsu (DJJV)  
