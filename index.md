@@ -33,9 +33,9 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
       <ul style="margin: 0; padding: 0; list-style: disc inside;">
          <li>Begann 1992/93 mit Ju-Jutsu (DJJV)</li>
          <li>2007: 2.Dan, anerkannt durch Hanshi Daniel Blanchet (10.Dan Aiki-Jitsu)</li>
-         <li>2012: Entwickelte mit Robert Planer den Stil Heiwa-Ryu-Jiu-Jitsu</li>
+         <li>2012: Benennung der Heiwa-Ryu ("Friedliche Schule“) gemeinsam mit Robert Planner/li>
          <li>2014: 5.Dan Ju-/Jiu-Jitsu (IFAK)</li>
-         <li>2016: 6.Dan mit Ehrentitel „Shihan“</li>
+         <li>2016: 6.Dan mit Ehrentitel "Shihan"</li>
          <li>2019: 7.Dan, 2023: 8.Dan</li>
       </ul>
    </div>
@@ -49,9 +49,9 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
          <li>Begann 1992/93 mit Shotokan-Karate (DKV)</li>
          <li>1997: Erster Kontakt mit Ju-/Jiu-Jitsu (BFAK/IFAK)</li>
          <li>Seit 2000: Trainer im TB Marktleuthen 1863 e.V.</li>
-         <li>2012: Stil-Entwicklung (Heiwa-Ryu-Jiu-Jitsu) gemeinsam mit Johannes Feiler</li>
+         <li>2012: Benennung der Heiwa-Ryu ("Friedliche Schule") gemeinsam mit Johannes Feiler</li>
          <li>2014: 5.Dan Ju-/Jiu-Jitsu (IFAK)</li>
-         <li>2016: 6.Dan mit Ehrentitel „Shihan“</li>
+         <li>2016: 6.Dan mit Ehrentitel "Shihan"</li>
          <li>2019: 7.Dan, 2023: 8.Dan</li>
       </ul>
    </div>
@@ -83,8 +83,8 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <div>
     <strong>BFAK → IFAK</strong>
-    <br> Ursprünglich war unser Dojo im „Bayrischen Fachverband für asiatische Kampfsportarten“ (BFAK) organisiert.
-    Später wurde daraus der „Bundesfachverband für asiatische Kampfsportarten“, und heute sind wir im „Internationalen Fachverband für asiatische Kampfsportarten“ (IFAK) unter der Leitung von Hanshi Siegfried Lory (10. Dan).
+    <br> Ursprünglich war unser Dojo im "Bayrischen Fachverband für asiatische Kampfsportarten" (BFAK) organisiert.
+    Später wurde daraus der "Bundesfachverband für asiatische Kampfsportarten", und heute sind wir im "Internationalen Fachverband für asiatische Kampfsportarten" (IFAK) unter der Leitung von Hanshi Siegfried Lory (10. Dan).
     <br/>
     <br/> 
     Wir gelten dort als eingetragene Schule Nr. 124.
