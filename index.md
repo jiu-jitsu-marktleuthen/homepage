@@ -108,8 +108,10 @@ Einfach vorbeikommen ist ebenfalls möglich!
 ## Impressum
 **Angaben gemäß § 5 TMG / § 55 RStV**  
 
-<img src="https://github.com/user-attachments/assets/d263d546-a269-4b28-b1e5-814ba482da4e" alt="tbm-jiu-jitsu-logo" width="100" />  
-<img src="https://github.com/user-attachments/assets/e3988c30-3105-4095-94bd-18d56a14ec39" alt="tbm-logo" width="100" />  
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/d263d546-a269-4b28-b1e5-814ba482da4e" alt="tbm-jiu-jitsu-logo" width="100" />
+  <img src="https://github.com/user-attachments/assets/e3988c30-3105-4095-94bd-18d56a14ec39" alt="tbm-logo" width="100" />
+</div>
 
 Heiwa-Ryu-Jiu-Jitsu Dojo im Turnerbund Marktleuthen 1863 e.V.  
 Schützenstraße 10  
