@@ -27,7 +27,7 @@ Mit viel Begeisterung und intensiver Praxis vermitteln wir die Prinzipien des fr
          <strong>Details zum Seminar herunterladen:</strong>
       </p>
       <ul>
-         <li><a href="https://github.com/user-attachments/files/18466483/Budo.Seminar.15032025.pdf" download="Budo_Seminar_15032025.pdf">Budo Seminar 15032025 (PDF)</a></li>
+         <li><a href="https://github.com/user-attachments/files/18466483/Budo.Seminar.15032025.pdf" download="Budo_Seminar_15032025.pdf">Budo Seminar 15.03.2025 (PDF)</a></li>
       </ul>
    </div>
    <div class="news-item" style="border: 2px solid #ccc; padding: 1rem; margin-bottom: 1rem;">
@@ -42,7 +42,7 @@ Mit viel Begeisterung und intensiver Praxis vermitteln wir die Prinzipien des fr
       </p>
       <ul>
          <li><a href="https://github.com/user-attachments/assets/6acdf2d0-5780-4c76-ba7b-cf022aa3ccb8" download="Seminar_Details_18072025.pdf">Seminar Details 18.07.2025 (PDF)</a></li>
-         <li><a href="https://github.com/user-attachments/assets/369612b1-ed07-4700-8493-5352397556e9" download="Zeitplan_18072025.pdf">Zeitplan 18.07.2025 (PDF) <em>(Zeitplan, der sich vor Ort ändern kann)</em></a></li>
+         <li><a href="https://github.com/user-attachments/assets/369612b1-ed07-4700-8493-5352397556e9" download="Zeitplan_18072025.pdf">Zeitplan 18.07.2025 (PDF)</a></li>
       </ul>
    </div>
 </details>
