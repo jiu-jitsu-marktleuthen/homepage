@@ -15,7 +15,7 @@ Mit viel Begeisterung und intensiver Praxis vermitteln wir die Prinzipien des fr
 ## News
 
 <details>
-   <summary><strong>▶ Seminare & Veranstaltungen ausklappen</strong></summary>
+   <summary><strong>▶ Aktuelle Seminare & Veranstaltungen ausklappen</strong></summary>
    <div class="news-item" style="border: 2px solid #ccc; padding: 1rem; margin-bottom: 1rem;">
       <h3>Sa. 15.03.2025</h3>
       <p>
