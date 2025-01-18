@@ -25,6 +25,8 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
 ---
 
 ## Trainer
+<img src="https://github.com/user-attachments/assets/c1c1363a-a6c7-4548-8275-4369eded3838" alt="joe-robbi-trainer" width="400" />  
+
 ### Johannes Feiler (8.DAN Shihan)
 • Begann 1992/93 mit Ju-Jutsu (DJJV)  
 • 2007: 2.Dan, international anerkannt durch Hanshi Daniel Blanchet (10.Dan Aiki-Jitsu)  
@@ -60,7 +62,7 @@ Schützenstraße 12a, 95168 Marktleuthen
 ---
 
 ## Verband
-<img src="https://github.com/user-attachments/assets/51817342-61ba-467f-908f-d6209a90bb8a" alt="tbm-jiu-jitsu-logo" width="200" />  
+<img src="https://github.com/user-attachments/assets/51817342-61ba-467f-908f-d6209a90bb8a" alt="ifak-logo" width="150" />  
 
 ### BFAK → IFAK  
 Ursprünglich war unser Dojo im "Bayrischen Fachverband für asiatische Kampfsportarten" (BFAK) organisiert. Später wurde daraus der "Bundesfachverband für asiatische Kampfsportarten" und heute sind wir im Internationalen Fachverband für asiatische Kampfsportarten" (IFAK) unter der Leitung von Hanshi Siegfried Lory (10.Dan).  
@@ -105,6 +107,10 @@ Einfach vorbeikommen ist ebenfalls möglich!
 
 ## Impressum
 **Angaben gemäß § 5 TMG / § 55 RStV**  
+
+<img src="https://github.com/user-attachments/assets/d263d546-a269-4b28-b1e5-814ba482da4e" alt="tbm-jiu-jitsu-logo" width="100" />  
+<img src="https://github.com/user-attachments/assets/e3988c30-3105-4095-94bd-18d56a14ec39" alt="tbm-logo" width="100" />  
+
 Heiwa-Ryu-Jiu-Jitsu Dojo im Turnerbund Marktleuthen 1863 e.V.  
 Schützenstraße 10  
 95168 Marktleuthen  
@@ -120,8 +126,6 @@ E-Mail: [info@tb-marktleuthen.de](mailto:info@tb-marktleuthen.de)
 
 **Registergericht:** Amtsgericht Wunsiedel  
 **Registernummer:** 40498  
-
-**Zusätzliche Informationen:** Diese Webseite wurde erstellt auf Basis des e-Recht24 Impressum-Generators.  
 
 ---
 
