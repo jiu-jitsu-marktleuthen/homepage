@@ -62,7 +62,7 @@ Schützenstraße 12a, 95168 Marktleuthen
 ---
 
 ## Verband
-### BFAK → IFAK  
+### BFAK → IFAK
 Ursprünglich war unser Dojo im "Bayrischen Fachverband für asiatische Kampfsportarten" (BFAK) organisiert. Später wurde daraus der "Bundesfachverband für asiatische Kampfsportarten" und heute sind wir im Internationalen Fachverband für asiatische Kampfsportarten" (IFAK) unter der Leitung von Hanshi Siegfried Lory (10.Dan).  
 Wir gelten dort als eingetragene Schule Nr. 124.
 
