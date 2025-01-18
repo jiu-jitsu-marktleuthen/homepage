@@ -133,15 +133,35 @@ E-Mail: [info@tb-marktleuthen.de](mailto:info@tb-marktleuthen.de)
 
 ## Haftungsausschluss
 <details>
-  <summary><strong>Details einblenden</strong></summary>
-### Haftung für Inhalte
-Die Inhalte dieser Seite wurden mit größter Sorgfalt erstellt. Wir übernehmen jedoch keine Gewähr für die Korrektheit, Vollständigkeit und Aktualität der Inhalte. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte nach den allgemeinen Gesetzen verantwortlich. Gemäß §§ 8 bis 10 TMG sind wir jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Hinweisen auf rechtswidrige Tätigkeiten zu suchen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntniserlangung einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
+  <summary><strong>▶ Rechtliche Hinweise anzeigen</strong></summary>
 
-### Haftung für Links
-Unsere Webseite enthält Links zu externen Webseiten, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft, rechtswidrige Inhalte waren zu diesem Zeitpunkt nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Wenn uns Rechtsverletzungen bekannt werden, entfernen wir solche Links umgehend.
+  <h3>Haftung für Inhalte</h3>
+  <p>
+    Die Inhalte dieser Seite wurden mit größter Sorgfalt erstellt. Wir übernehmen jedoch keine Gewähr für die Korrektheit, Vollständigkeit und Aktualität der Inhalte.  
+    Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte nach den allgemeinen Gesetzen verantwortlich. Gemäß §§ 8 bis 10 TMG sind wir jedoch nicht verpflichtet, 
+    übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Hinweisen auf rechtswidrige Tätigkeiten zu suchen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung 
+    von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntniserlangung einer konkreten 
+    Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
+  </p>
 
-### Urheberrecht
-Alle durch die Betreiber dieser Webseite erstellten Inhalte und Werke unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung oder jegliche Art der Verwertung außerhalb der Grenzen des Urheberrechts bedürfen der schriftlichen Zustimmung des jeweiligen Autors. Downloads oder Kopien dieser Seite sind lediglich für den privaten, nicht kommerziellen Gebrauch gestattet. Sollten Inhalte auf dieser Webseite nicht vom Betreiber erstellt worden sein, werden die Urheberrechte Dritter beachtet und als solche gekennzeichnet. Sollte dennoch eine Urheberrechtsverletzung bekannt werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen entfernen wir derartige Inhalte umgehend.
+  <h3>Haftung für Links</h3>
+  <p>
+    Unsere Webseite enthält Links zu externen Webseiten, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen.  
+    Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche 
+    Rechtsverstöße überprüft; rechtswidrige Inhalte waren zu diesem Zeitpunkt nicht erkennbar.  
+    Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Wenn uns Rechtsverletzungen bekannt 
+    werden, entfernen wir solche Links umgehend.
+  </p>
+
+  <h3>Urheberrecht</h3>
+  <p>
+    Alle durch die Betreiber dieser Webseite erstellten Inhalte und Werke unterliegen dem deutschen Urheberrecht.  
+    Die Vervielfältigung, Bearbeitung, Verbreitung oder jegliche Art der Verwertung außerhalb der Grenzen des Urheberrechts bedürfen der schriftlichen Zustimmung des jeweiligen Autors.  
+    Downloads oder Kopien dieser Seite sind lediglich für den privaten, nicht kommerziellen Gebrauch gestattet. Sollten Inhalte auf dieser Webseite nicht vom Betreiber erstellt 
+    worden sein, werden die Urheberrechte Dritter beachtet und als solche gekennzeichnet. Sollte dennoch eine Urheberrechtsverletzung bekannt werden, bitten wir um einen 
+    entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen entfernen wir derartige Inhalte umgehend.
+  </p>
+
 </details>
 
 ---
