@@ -31,7 +31,7 @@ Mit viel Begeisterung und intensiver Praxis vermitteln wir die Prinzipien des fr
       </ul>
    </div>
    <div class="news-item" style="border: 2px solid #ccc; padding: 1rem; margin-bottom: 1rem;">
-      <h3>Fr. 18.07. - So. 20.07.2025</h3>
+      <h3>Fr. 18.07.2025 - So. 20.07.2025</h3>
       <p>
          Es findet ein verbandsoffenes Seminar statt, mit  
          <em>Andreas "Andy" Güttner (RoninZ)</em> sowie  
