@@ -237,3 +237,7 @@ Die Nutzung von im Impressum veröffentlichten Kontaktdaten durch Dritte zur Üb
 ---
 
 *© {{ site.time | date: "%Y" }} Heiwa-Ryu-Jiu-Jitsu Dojo – Turnerbund Marktleuthen 1863 e.V.*  
+
+<head>
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+</head>
