@@ -176,7 +176,7 @@ Bei Fragen oder Interesse am Probetraining:
 </div>
 
 Heiwa-Ryu-Jiu-Jitsu Dojo im Turnerbund Marktleuthen 1863 e.V.  
-Schützenstraße 10  
+Schützenstraße 12  
 95168 Marktleuthen  
 
 **Vertreten durch:**  
