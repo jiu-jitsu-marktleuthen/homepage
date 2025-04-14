@@ -17,20 +17,6 @@ Mit viel Begeisterung und intensiver Praxis vermitteln wir die Prinzipien des fr
 <details>
    <summary><strong>▶ Aktuelle Seminare & Veranstaltungen ausklappen</strong></summary>
    <div class="news-item" style="border: 2px solid #ccc; padding: 1rem; margin-bottom: 1rem;">
-      <h3>Sa. 15.03.2025</h3>
-      <p>
-         Bei uns findet ein verbandsoffenes Seminar statt, mit  
-         <em>Holger Tanzberger (Diespeck)</em> und  
-         <em>Johannes Feiler (TBM)</em>.
-      </p>
-      <p>
-         <strong>Details zum Seminar herunterladen:</strong>
-      </p>
-      <ul>
-         <li><a href="https://github.com/user-attachments/files/18466483/Budo.Seminar.15032025.pdf" download="Budo_Seminar_15032025.pdf">Budo Seminar 15.03.2025 (PDF)</a></li>
-      </ul>
-   </div>
-   <div class="news-item" style="border: 2px solid #ccc; padding: 1rem; margin-bottom: 1rem;">
       <h3>Fr. 18.07.2025 - So. 20.07.2025</h3>
       <p>
          Es findet ein verbandsoffenes Seminar statt, mit  
