@@ -16,21 +16,51 @@ Mit viel Begeisterung und intensiver Praxis vermitteln wir die Prinzipien des fr
 
 <details>
    <summary><strong>▶ Aktuelle Seminare & Veranstaltungen ausklappen</strong></summary>
-   <div class="news-item" style="border: 2px solid #ccc; padding: 1rem; margin-bottom: 1rem;">
-      <h3>Fr. 18.07.2025 - So. 20.07.2025</h3>
-      <p>
-         Es findet ein verbandsoffenes Seminar statt, mit  
-         <em>Andreas "Andy" Güttner (RoninZ)</em> sowie  
-         <em>Robert Planer und Johannes Feiler (TBM)</em>.
-      </p>
-      <p>
-         <strong>Details zum Seminar herunterladen:</strong>
-      </p>
-      <ul>
-         <li><a href="https://github.com/user-attachments/assets/6acdf2d0-5780-4c76-ba7b-cf022aa3ccb8" download="Seminar_Details_18072025.png">Seminar Details 18.07.2025 (PNG)</a></li>
-         <li><a href="https://github.com/user-attachments/assets/369612b1-ed07-4700-8493-5352397556e9" download="Zeitplan_18072025.png">Zeitplan 18.07.2025 (PNG)</a></li>
-      </ul>
-   </div>
+<div class="news-item" style="border: 2px solid #ccc; padding: 1rem; margin-bottom: 1rem;">
+  <!-- Titel und Datum -->
+  <h3>Yamabushi – Ryu Kyu Jutsu – Seminar</h3>
+  <p><strong>23. August 2025, 11 – 17 Uhr</strong></p>
+
+  <!-- Referenten -->
+  <p><em>Rainer Grytt</em><br>
+     4. Dan Yamabushi Ryu Kyujutsu
+  </p>
+  <p><em>Tomasz Szmagara</em><br>
+     2. Dan Yamabushi Ryu Kyujutsu
+  </p>
+
+  <!-- Ort, Kosten, Anmeldung -->
+  <p><strong>Veranstaltungsort:</strong><br>
+     Sporthalle Marktleuthen<br>
+     Schützenstraße 12a<br>
+     95168 Marktleuthen
+  </p>
+  <p><strong>Kosten:</strong> 20 €</p>
+  <p><strong>Anmeldung:</strong><br>
+     Marion Grießhammer<br>
+     Mobil: 0176 25361714<br>
+     E‑Mail: <a href="mailto:marion-griesshammer@gmx.de">marion‑griesshammer@gmx.de</a>
+  </p>
+
+  <!-- Download PDF -->
+  <p><strong>Details herunterladen:</strong></p>
+  <ul>
+    <li>
+      <a href="https://github.com/user-attachments/files/21454274/YI-LV.Bayern-1.pdf"
+         download="YI-LV Bayern-1.pdf">
+        YI‑LV Bayern‑1.pdf (Seminarinfos)
+      </a>
+    </li>
+  </ul>
+
+  <!-- Haftungsausschluss -->
+  <p style="font-size:0.8rem; color:#666; margin-top:1rem;">
+    Veranstalter, Ausrichter und Trainer übernehmen keinerlei Haftung bei Personen  
+    oder Sachschäden.
+  </p>
+</div>
+
+
 </details>
 
 ---
