@@ -18,49 +18,48 @@ Mit viel Begeisterung und intensiver Praxis vermitteln wir die Prinzipien des fr
    <summary><strong>▶ Aktuelle Seminare & Veranstaltungen ausklappen</strong></summary>
 <div class="news-item" style="border: 2px solid #ccc; padding: 1rem; margin-bottom: 1rem;">
   <!-- Titel und Datum -->
-  <h3>Yamabushi – Ryu Kyu Jutsu – Seminar</h3>
-  <p><strong>23. August 2025, 11 – 17 Uhr</strong></p>
+  <h3>Jiu-Jitsu Seminar & Dan-Prüfung</h3>
+  <p><strong>Samstag, 14. März 2026<br>Beginn: 11:00 Uhr – Ende: 16:00 Uhr<br>Ab 16:30 Uhr Prüfungen (auch Dan-Prüfungen möglich)</strong></p>
 
   <!-- Referenten -->
-  <p><em>Rainer Grytt</em><br>
-     4. Dan Yamabushi Ryu Kyujutsu
+  <p><em>Hanshi Gregor Vogler</em><br>
+     10. Dan Ju-Jitsu, Vizepräsident im IFAK
   </p>
-  <p><em>Tomasz Szmagara</em><br>
-     2. Dan Yamabushi Ryu Kyujutsu
+  <p><em>Sensei Jonas Vogler</em><br>
+     3. Dan Ju-Jitsu
   </p>
+  <p><em>Johannes Feiler</em><br>
+     8. Dan Ju-Jitsu
+  </p>
+
+  <!-- Thema -->
+  <p><strong>Thema:</strong> Selbstverteidigung, Jiu-Jitsu und Freude am Budo</p>
 
   <!-- Ort, Kosten, Anmeldung -->
   <p><strong>Veranstaltungsort:</strong><br>
-     Sporthalle Marktleuthen<br>
+     Turnerbund Marktleuthen<br>
      Schützenstraße 12a<br>
      95168 Marktleuthen
   </p>
-  <p><strong>Kosten:</strong> 20 €</p>
+
+  <p><strong>Lehrgangsgebühr:</strong> 25 €</p>
+
   <p><strong>Anmeldung:</strong><br>
-     Marion Grießhammer<br>
-     Mobil: 0176 25361714<br>
-     E‑Mail: <a href="mailto:marion-griesshammer@gmx.de">marion‑griesshammer@gmx.de</a>
+     Johannes Feiler<br>
+     Tel.: 0170 9007027<br>
+     E-Mail: <a href="mailto:jidjobbfak124@web.de">jidjobbfak124@web.de</a><br>
+     Meldeschluss: 07.03.2026
   </p>
 
-  <!-- Download PDF -->
-  <p><strong>Details herunterladen:</strong></p>
-  <ul>
-    <li>
-      <a href="https://github.com/user-attachments/files/21454274/YI-LV.Bayern-1.pdf"
-         download="YI-LV Bayern-1.pdf">
-        YI‑LV Bayern‑1.pdf (Seminarinfos)
-      </a>
-    </li>
-  </ul>
+  <p>
+     Bitte bei der Anmeldung angeben, ob eine Teilnahme am Essen gewünscht ist.
+  </p>
 
   <!-- Haftungsausschluss -->
   <p style="font-size:0.8rem; color:#666; margin-top:1rem;">
-    Veranstalter, Ausrichter und Trainer übernehmen keinerlei Haftung bei Personen  
-    oder Sachschäden.
+     Versicherungsschutz über den eigenen Verein bzw. eigenständig zu regeln.
   </p>
 </div>
-
-
 </details>
 
 ---
