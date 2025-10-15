@@ -94,22 +94,6 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
    <img src="https://github.com/user-attachments/assets/5813b4b2-5b9b-4ea0-a5ff-843040ebe32c" alt="Johannes Feiler" style="width: 150px; margin-left: 20px;" /> 
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-   <div>
-      <h3>Robert Planer (8.DAN Shihan)</h3>
-      <ul style="margin: 0; padding: 0; list-style: disc inside;">
-         <li>Begann 1992/93 mit Shotokan-Karate (DKV)</li>
-         <li>1997: Erster Kontakt mit Ju-/Jiu-Jitsu (BFAK/IFAK)</li>
-         <li>Seit 2000: Trainer im TB Marktleuthen 1863 e.V.</li>
-         <li>2012: Mit Johannes Feiler - Benennung der Heiwa-Ryu ("Friedliche Schule")</li>
-         <li>2014: 5.Dan Ju-/Jiu-Jitsu (IFAK)</li>
-         <li>2016: 6.Dan mit Ehrentitel "Shihan"</li>
-         <li>2019: 7.Dan, 2023: 8.Dan</li>
-      </ul>
-   </div>
-   <img src="https://github.com/user-attachments/assets/a3a7238c-97a3-4b21-b358-e01301a7ef9f" alt="Robert Planer" style="width: 150px; margin-left: 20px;" /> 
-</div>
-
 ---
 
 ## Training
