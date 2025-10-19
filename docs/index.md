@@ -143,34 +143,38 @@ Dann wirf einen Blick auf:
 • [Instagram](https://www.instagram.com/jiu_jitsu_tbm), wo wir regelmäßig Fotos, Eindrücke von Veranstaltungen und kurze Videoclips posten.  
 
 <style>
-  .gallery {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  .photo-wall {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     gap: 12px;
     margin-top: 1rem;
   }
 
-  .gallery img {
-    width: 100%;
+  .photo-wall img {
+    flex: 1 1 260px;
+    max-width: 320px;
     height: auto;
-    border-radius: 8px;
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.25);
-    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    border-radius: 6px;
+    object-fit: cover;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
   }
 
-  .gallery img:hover {
+  .photo-wall img:hover {
     transform: scale(1.03);
-    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
   }
 
   @media (max-width: 600px) {
-    .gallery {
-      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    .photo-wall img {
+      max-width: 100%;
+      flex: 1 1 45%;
     }
   }
 </style>
 
-<div class="gallery">
+<div class="photo-wall">
   <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/IMG-20241021-WA0000-1024x682.jpg" alt="Jiu-Jitsu Training 2025">
   <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/IMG-20240203-WA0002-768x1024.jpg" alt="Kindertraining Jiu-Jitsu">
   <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/IMG_20180714_162152-1024x768.jpg" alt="Jiu-Jitsu Sommerlehrgang">
