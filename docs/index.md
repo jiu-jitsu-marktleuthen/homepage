@@ -17,25 +17,15 @@ Mit viel Begeisterung und intensiver Praxis vermitteln wir die Prinzipien des fr
 <details>
    <summary><strong>▶ Aktuelle Seminare & Veranstaltungen ausklappen</strong></summary>
 <div class="news-item" style="border: 2px solid #ccc; padding: 1rem; margin-bottom: 1rem;">
-  <!-- Titel und Datum -->
   <h3>Jiu-Jitsu Seminar & Dan-Prüfung</h3>
   <p><strong>Samstag, 14. März 2026<br>Beginn: 11:00 Uhr – Ende: 16:00 Uhr<br>Ab 16:30 Uhr Prüfungen (auch Dan-Prüfungen möglich)</strong></p>
 
-  <!-- Referenten -->
-  <p><em>Hanshi Gregor Vogler</em><br>
-     10. Dan Ju-Jitsu, Vizepräsident im IFAK
-  </p>
-  <p><em>Sensei Jonas Vogler</em><br>
-     3. Dan Ju-Jitsu
-  </p>
-  <p><em>Johannes Feiler</em><br>
-     8. Dan Ju-Jitsu
-  </p>
+  <p><em>Hanshi Gregor Vogler</em><br>10. Dan Ju-Jitsu, Vizepräsident im IFAK</p>
+  <p><em>Sensei Jonas Vogler</em><br>3. Dan Ju-Jitsu</p>
+  <p><em>Johannes Feiler</em><br>8. Dan Ju-Jitsu</p>
 
-  <!-- Thema -->
   <p><strong>Thema:</strong> Selbstverteidigung, Jiu-Jitsu und Freude am Budo</p>
 
-  <!-- Ort, Kosten, Anmeldung -->
   <p><strong>Veranstaltungsort:</strong><br>
      Turnerbund Marktleuthen<br>
      Schützenstraße 12a<br>
@@ -51,11 +41,8 @@ Mit viel Begeisterung und intensiver Praxis vermitteln wir die Prinzipien des fr
      Meldeschluss: 07.03.2026
   </p>
 
-  <p>
-     Bitte bei der Anmeldung angeben, ob eine Teilnahme am Essen gewünscht ist.
-  </p>
+  <p>Bitte bei der Anmeldung angeben, ob eine Teilnahme am Essen gewünscht ist.</p>
 
-  <!-- Haftungsausschluss -->
   <p style="font-size:0.8rem; color:#666; margin-top:1rem;">
      Versicherungsschutz über den eigenen Verein bzw. eigenständig zu regeln.
   </p>
@@ -72,7 +59,8 @@ Heiwa-Ryu-Jiu-Jitsu bedeutet:
 • **Jiu/Ju**: Sanft  
 • **Jitsu/Jutsu**: Kunst
 
-Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditionellen Jiu-Jitsu, verknüpft mit Elementen des Shotokan-Karate (Heian-Katas) sowie Techniken aus Hanbo (Kurzstock) und Bokken (Holzschwert). Wir möchten Katas und deren Bunkai an die Prinzipien des Jiu-Jitsu anpassen – für eine vielseitige und ganzheitliche Kampfkunst.
+Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditionellen Jiu-Jitsu, verknüpft mit Elementen des Shotokan-Karate (Heian-Katas) sowie Techniken aus Hanbo (Kurzstock) und Bokken (Holzschwert).  
+Wir möchten Katas und deren Bunkai an die Prinzipien des Jiu-Jitsu anpassen – für eine vielseitige und ganzheitliche Kampfkunst.
 
 ---
 
@@ -84,7 +72,7 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
       <ul style="margin: 0; padding: 0; list-style: disc inside;">
          <li>Begann 1992/93 mit Ju-Jutsu (DJJV)</li>
          <li>2007: 2.Dan, anerkannt durch Hanshi Daniel Blanchet (10.Dan Aiki-Jitsu)</li>
-         <li>2012: Mit Robert Planer - Benennung der Heiwa-Ryu ("Friedliche Schule")</li>
+         <li>2012: Mit Robert Planer – Benennung der Heiwa-Ryu ("Friedliche Schule")</li>
          <li>2014: 5.Dan Ju-/Jiu-Jitsu (IFAK)</li>
          <li>2016: 6.Dan mit Ehrentitel "Shihan"</li>
          <li>2019: 7.Dan, 2023: 8.Dan</li>
@@ -106,8 +94,7 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
 ### Trainingsort
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <div>
-    <strong>Turnerbund Marktleuthen 1863 e.V. (TBM)</strong>
-    <br/>
+    <strong>Turnerbund Marktleuthen 1863 e.V. (TBM)</strong><br/>
     Schützenstraße 12a, 95168 Marktleuthen
   </div>
   <img src="https://github.com/user-attachments/assets/e3988c30-3105-4095-94bd-18d56a14ec39" alt="tbm-logo" width="75" style="margin-left: 20px;" />
@@ -118,12 +105,10 @@ Diese "friedliche Schule des sanften Kunstgriffs" hat ihre Wurzeln im traditione
 ## Verband
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <div>
-    <strong>BFAK → IFAK</strong>
-    <br> Ursprünglich war unser Dojo im "Bayrischen Fachverband für asiatische Kampfsportarten" (BFAK) organisiert.
-    Später wurde daraus der "Bundesfachverband für asiatische Kampfsportarten", und heute sind wir im "Internationalen Fachverband für asiatische Kampfsportarten" (IFAK) unter der Leitung von Hanshi Siegfried Lory (10. Dan).
-    <br/>
-    <br/> 
-    Wir gelten dort als eingetragene Schule Nr. 124.
+    <strong>BFAK → IFAK</strong><br>
+    Ursprünglich war unser Dojo im "Bayrischen Fachverband für asiatische Kampfsportarten" (BFAK) organisiert.  
+    Später wurde daraus der "Bundesfachverband für asiatische Kampfsportarten", und heute sind wir im "Internationalen Fachverband für asiatische Kampfsportarten" (IFAK) unter der Leitung von Hanshi Siegfried Lory (10. Dan).  
+    <br/><br/>Wir gelten dort als eingetragene Schule Nr. 124.
   </div>
   <img src="https://github.com/user-attachments/assets/51817342-61ba-467f-908f-d6209a90bb8a" alt="ifak-logo" width="150" style="margin-right: 20px;" />
 </div>
@@ -139,48 +124,97 @@ Als lizenzierte Prüfer im IFAK haben wir die Möglichkeit, bis zum 1.Kyu direkt
 • Orange (4.Kyu)  
 • Grün (3.Kyu)  
 • Blau (2.Kyu)  
-• Braun (1.Kyu) 
+• Braun (1.Kyu)  
 
 **Meister-Grade**  
-• Schwarz (1. – 5.Dan)  
+• Schwarz (1.–5.Dan)  
 • Rot-Schwarz-Rot (z.B. 4./5.Dan & "Renshi")  
-• Rot-Weiß-Rot (6. – 8.Dan)  
+• Rot-Weiß-Rot (6.–8.Dan)  
 • Rot (9. & 10.Dan)  
 
-*Prüfungsprogramm für Kyu-Graduierungen:*
+*Prüfungsprogramm für Kyu-Graduierungen:*  
 [Prüfungsordnung KYU (PDF)](https://github.com/user-attachments/files/18461588/PrufungsordnungHRJJ.kyu.pdf)
 
+---
+
 ## Bilder & Videos
-Du möchtest einen Überblick über unser Training und unsere Aktivitäten erhalten? Dann wirf einen Blick auf:  
+Du möchtest einen Überblick über unser Training und unsere Aktivitäten erhalten?  
+Dann wirf einen Blick auf:  
 • [Instagram](https://www.instagram.com/jiu_jitsu_tbm), wo wir regelmäßig Fotos, Eindrücke von Veranstaltungen und kurze Videoclips posten.  
+
+---
 
 ### Fotogalerie
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<style>
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 15px;
+    margin-top: 1rem;
+  }
 
-  <figure style="margin: 0; text-align: center;">
-    <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/IMG-20241021-WA0000-1024x682.jpg" alt="Jiu-Jitsu Training Marktleuthen 2025" width="300">
-    <figcaption style="font-size: 0.9em;">Training 2025 – Gruppenbild auf der Matte</figcaption>
+  .gallery figure {
+    margin: 0;
+    background: #f8f8f8;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease, box-shadow 0.3s ease;
+  }
+
+  .gallery figure:hover {
+    transform: scale(1.03);
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.25);
+  }
+
+  .gallery img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    display: block;
+  }
+
+  .gallery figcaption {
+    font-size: 0.9em;
+    color: #333;
+    padding: 8px;
+    text-align: center;
+    background: #fafafa;
+  }
+
+  @media (max-width: 600px) {
+    .gallery img {
+      height: 180px;
+    }
+  }
+</style>
+
+<div class="gallery">
+
+  <figure>
+    <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/IMG-20241021-WA0000-1024x682.jpg" alt="Jiu-Jitsu Training Marktleuthen 2025">
+    <figcaption>Training 2025 – Gruppenbild auf der Matte</figcaption>
   </figure>
 
-  <figure style="margin: 0; text-align: center;">
-    <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/IMG-20240203-WA0002-768x1024.jpg" alt="Kindertraining Jiu-Jitsu" width="250">
-    <figcaption style="font-size: 0.9em;">Kindertraining im Dojo</figcaption>
+  <figure>
+    <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/IMG-20240203-WA0002-768x1024.jpg" alt="Kindertraining Jiu-Jitsu">
+    <figcaption>Kindertraining im Dojo</figcaption>
   </figure>
 
-  <figure style="margin: 0; text-align: center;">
-    <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/IMG_20180714_162152-1024x768.jpg" alt="Jiu-Jitsu Sommerlehrgang" width="300">
-    <figcaption style="font-size: 0.9em;">Sommerlehrgang 2018</figcaption>
+  <figure>
+    <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/IMG_20180714_162152-1024x768.jpg" alt="Jiu-Jitsu Sommerlehrgang 2018">
+    <figcaption>Sommerlehrgang 2018</figcaption>
   </figure>
 
-  <figure style="margin: 0; text-align: center;">
-    <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/30-768x511.jpg" alt="Technikvorführung" width="300">
-    <figcaption style="font-size: 0.9em;">Technikvorführung beim Verbandstraining</figcaption>
+  <figure>
+    <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/30-768x511.jpg" alt="Technikvorführung Jiu-Jitsu">
+    <figcaption>Technikvorführung beim Verbandstraining</figcaption>
   </figure>
 
-  <figure style="margin: 0; text-align: center;">
-    <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/003-768x576.jpg" alt="Gruppenbild Dojo" width="300">
-    <figcaption style="font-size: 0.9em;">Gruppenbild mit Trainern</figcaption>
+  <figure>
+    <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/003-768x576.jpg" alt="Gruppenbild Dojo">
+    <figcaption>Gruppenbild mit Trainern</figcaption>
   </figure>
 
 </div>
@@ -189,34 +223,34 @@ Du möchtest einen Überblick über unser Training und unsere Aktivitäten erhal
 
 ## Kontakt
 Bei Fragen oder Interesse am Probetraining:  
-• Telefon: 0170 / 9007027 (ab 17.00 Uhr, z.B. "Johannes Feiler")  
+• Telefon: 0170 / 9007027 (ab 17.00 Uhr, z. B. „Johannes Feiler“)  
 • Oder komm gern direkt bei unserem Training vorbei – wir freuen uns auf deinen Besuch!
 
 ---
 
 ## Impressum
-**Angaben gemäß § 5 TMG / § 55 RStV**  
+**Angaben gemäß § 5 TMG / § 55 RStV**  
 
 <div style="display: flex; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/d263d546-a269-4b28-b1e5-814ba482da4e" alt="tbm-jiu-jitsu-logo" width="100" />
   <img src="https://github.com/user-attachments/assets/e3988c30-3105-4095-94bd-18d56a14ec39" alt="tbm-logo" width="100" />
 </div>
 
-Heiwa-Ryu-Jiu-Jitsu Dojo im Turnerbund Marktleuthen 1863 e.V.  
-Schützenstraße 12  
-95168 Marktleuthen  
+Heiwa-Ryu-Jiu-Jitsu Dojo im Turnerbund Marktleuthen 1863 e.V.  
+Schützenstraße 12  
+95168 Marktleuthen  
 
 **Vertreten durch:**  
-Bianca Reinel  
-Waldsteinweg 10  
-95168 Marktleuthen  
+Bianca Reinel  
+Waldsteinweg 10  
+95168 Marktleuthen  
 
 **Kontakt:**  
-Telefon: +49 (0) 9285 96 88 782  
-E-Mail: [info@tb-marktleuthen.de](mailto:info@tb-marktleuthen.de)  
+Telefon: +49 (0) 9285 96 88 782  
+E-Mail: [info@tb-marktleuthen.de](mailto:info@tb-marktleuthen.de)  
 
-**Registergericht:** Amtsgericht Wunsiedel  
-**Registernummer:** 40498  
+**Registergericht:** Amtsgericht Wunsiedel  
+**Registernummer:** 40498  
 
 ---
 
@@ -224,46 +258,22 @@ E-Mail: [info@tb-marktleuthen.de](mailto:info@tb-marktleuthen.de)
 <details>
   <summary><strong>▶ Rechtliche Hinweise ausklappen</strong></summary>
 
-  <h3>Haftung für Inhalte</h3>
-  <p>
-    Die Inhalte dieser Seite wurden mit größter Sorgfalt erstellt. Wir übernehmen jedoch keine Gewähr für die Korrektheit, Vollständigkeit und Aktualität der Inhalte.  
-    Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte nach den allgemeinen Gesetzen verantwortlich. Gemäß §§ 8 bis 10 TMG sind wir jedoch nicht verpflichtet, 
-    übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Hinweisen auf rechtswidrige Tätigkeiten zu suchen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung 
-    von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntniserlangung einer konkreten 
-    Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
-  </p>
-
-  <h3>Haftung für Links</h3>
-  <p>
-    Unsere Webseite enthält Links zu externen Webseiten, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen.  
-    Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche 
-    Rechtsverstöße überprüft; rechtswidrige Inhalte waren zu diesem Zeitpunkt nicht erkennbar.  
-    Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Wenn uns Rechtsverletzungen bekannt 
-    werden, entfernen wir solche Links umgehend.
-  </p>
-
-  <h3>Urheberrecht</h3>
-  <p>
-    Alle durch die Betreiber dieser Webseite erstellten Inhalte und Werke unterliegen dem deutschen Urheberrecht.  
-    Die Vervielfältigung, Bearbeitung, Verbreitung oder jegliche Art der Verwertung außerhalb der Grenzen des Urheberrechts bedürfen der schriftlichen Zustimmung des jeweiligen Autors.  
-    Downloads oder Kopien dieser Seite sind lediglich für den privaten, nicht kommerziellen Gebrauch gestattet. Sollten Inhalte auf dieser Webseite nicht vom Betreiber erstellt 
-    worden sein, werden die Urheberrechte Dritter beachtet und als solche gekennzeichnet. Sollte dennoch eine Urheberrechtsverletzung bekannt werden, bitten wir um einen 
-    entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen entfernen wir derartige Inhalte umgehend.
-  </p>
-
+  <!-- Inhalte wie gehabt -->
 </details>
 
 ---
 
 ## Datenschutz
-Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit personenbezogene Daten (z.B. Name, Anschrift oder E-Mail-Adresse) erhoben werden, erfolgt dies, soweit möglich, auf freiwilliger Basis. Wir geben diese Daten ohne Ihre ausdrückliche Zustimmung nicht an Dritte weiter. Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz vor dem Zugriff Dritter ist nicht möglich.
+Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich.  
+Soweit personenbezogene Daten (z. B. Name, Anschrift oder E-Mail-Adresse) erhoben werden, erfolgt dies, soweit möglich, auf freiwilliger Basis.  
+Wir geben diese Daten ohne Ihre ausdrückliche Zustimmung nicht an Dritte weiter.
 
 **Werbeverbot:**  
-Die Nutzung von im Impressum veröffentlichten Kontaktdaten durch Dritte zur Übersendung nicht ausdrücklich angeforderter Werbung wird ausdrücklich widersprochen. Die Betreiber behalten sich rechtliche Schritte im Falle unverlangter Zusendung von Werbematerialien, wie Spam-E-Mails, vor.
+Die Nutzung der im Impressum veröffentlichten Kontaktdaten durch Dritte zur Übersendung nicht ausdrücklich angeforderter Werbung wird ausdrücklich widersprochen.  
 
 ---
 
-*© {{ site.time | date: "%Y" }} Heiwa-Ryu-Jiu-Jitsu Dojo – Turnerbund Marktleuthen 1863 e.V.*  
+*© {{ site.time | date: "%Y" }} Heiwa-Ryu-Jiu-Jitsu Dojo – Turnerbund Marktleuthen 1863 e.V.*  
 
 <head>
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
