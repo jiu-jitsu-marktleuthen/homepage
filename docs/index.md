@@ -144,79 +144,42 @@ Dann wirf einen Blick auf:
 
 ---
 
-### Fotogalerie
+### Impressionen aus dem DOJO ...
 
 <style>
   .gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 15px;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 12px;
     margin-top: 1rem;
-  }
-
-  .gallery figure {
-    margin: 0;
-    background: #f8f8f8;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
-    transition: transform 0.2s ease, box-shadow 0.3s ease;
-  }
-
-  .gallery figure:hover {
-    transform: scale(1.03);
-    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.25);
   }
 
   .gallery img {
     width: 100%;
-    height: 220px;
-    object-fit: cover;
-    display: block;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.25);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
   }
 
-  .gallery figcaption {
-    font-size: 0.9em;
-    color: #333;
-    padding: 8px;
-    text-align: center;
-    background: #fafafa;
+  .gallery img:hover {
+    transform: scale(1.03);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.3);
   }
 
   @media (max-width: 600px) {
-    .gallery img {
-      height: 180px;
+    .gallery {
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
     }
   }
 </style>
 
 <div class="gallery">
-
-  <figure>
-    <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/IMG-20241021-WA0000-1024x682.jpg" alt="Jiu-Jitsu Training Marktleuthen 2025">
-    <figcaption>Training 2025 – Gruppenbild auf der Matte</figcaption>
-  </figure>
-
-  <figure>
-    <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/IMG-20240203-WA0002-768x1024.jpg" alt="Kindertraining Jiu-Jitsu">
-    <figcaption>Kindertraining im Dojo</figcaption>
-  </figure>
-
-  <figure>
-    <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/IMG_20180714_162152-1024x768.jpg" alt="Jiu-Jitsu Sommerlehrgang 2018">
-    <figcaption>Sommerlehrgang 2018</figcaption>
-  </figure>
-
-  <figure>
-    <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/30-768x511.jpg" alt="Technikvorführung Jiu-Jitsu">
-    <figcaption>Technikvorführung beim Verbandstraining</figcaption>
-  </figure>
-
-  <figure>
-    <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/003-768x576.jpg" alt="Gruppenbild Dojo">
-    <figcaption>Gruppenbild mit Trainern</figcaption>
-  </figure>
-
+  <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/IMG-20241021-WA0000-1024x682.jpg" alt="Jiu-Jitsu Training 2025">
+  <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/IMG-20240203-WA0002-768x1024.jpg" alt="Kindertraining Jiu-Jitsu">
+  <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/IMG_20180714_162152-1024x768.jpg" alt="Jiu-Jitsu Sommerlehrgang">
+  <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/30-768x511.jpg" alt="Technikvorführung Jiu-Jitsu">
+  <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/003-768x576.jpg" alt="Gruppenbild Dojo">
 </div>
 
 ---
