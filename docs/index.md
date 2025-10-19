@@ -146,7 +146,7 @@ Dann wirf einen Blick auf:
   .photo-wall {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex-start;
     gap: 12px;
     margin-top: 1rem;
   }
