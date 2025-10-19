@@ -142,10 +142,6 @@ Du möchtest einen Überblick über unser Training und unsere Aktivitäten erhal
 Dann wirf einen Blick auf:  
 • [Instagram](https://www.instagram.com/jiu_jitsu_tbm), wo wir regelmäßig Fotos, Eindrücke von Veranstaltungen und kurze Videoclips posten.  
 
----
-
-### Impressionen aus dem DOJO ...
-
 <style>
   .gallery {
     display: grid;
