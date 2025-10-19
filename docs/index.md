@@ -150,12 +150,40 @@ Als lizenzierte Prüfer im IFAK haben wir die Möglichkeit, bis zum 1.Kyu direkt
 *Prüfungsprogramm für Kyu-Graduierungen:*
 [Prüfungsordnung KYU (PDF)](https://github.com/user-attachments/files/18461588/PrufungsordnungHRJJ.kyu.pdf)
 
----
-
 ## Bilder & Videos
-Du möchtest einen Überblick über unser Training und unsere Aktivitäten erhalten? Dann wirf einen Blick auf unsere Kanäle:  
+Du möchtest einen Überblick über unser Training und unsere Aktivitäten erhalten? Dann wirf einen Blick auf:  
 • [Instagram](https://www.instagram.com/jiu_jitsu_tbm), wo wir regelmäßig Fotos, Eindrücke von Veranstaltungen und kurze Videoclips posten.  
-• [YouTube](https://www.youtube.com/channel/UCy34rgHg0uicoFaSJ9eJQLw), für längere Videoeinblicke in unsere Techniken, Events und Gurtprüfungen.  
+
+### Fotogalerie
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+  <figure style="margin: 0; text-align: center;">
+    <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/IMG-20241021-WA0000-1024x682.jpg" alt="Jiu-Jitsu Training Marktleuthen 2025" width="300">
+    <figcaption style="font-size: 0.9em;">Training 2025 – Gruppenbild auf der Matte</figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
+    <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/IMG-20240203-WA0002-768x1024.jpg" alt="Kindertraining Jiu-Jitsu" width="250">
+    <figcaption style="font-size: 0.9em;">Kindertraining im Dojo</figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
+    <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/IMG_20180714_162152-1024x768.jpg" alt="Jiu-Jitsu Sommerlehrgang" width="300">
+    <figcaption style="font-size: 0.9em;">Sommerlehrgang 2018</figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
+    <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/30-768x511.jpg" alt="Technikvorführung" width="300">
+    <figcaption style="font-size: 0.9em;">Technikvorführung beim Verbandstraining</figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
+    <img src="https://www.tb-marktleuthen.de/wp-content/uploads/2025/10/003-768x576.jpg" alt="Gruppenbild Dojo" width="300">
+    <figcaption style="font-size: 0.9em;">Gruppenbild mit Trainern</figcaption>
+  </figure>
+
+</div>
 
 ---
 
